@@ -96,7 +96,7 @@ body a:hover { color: #2a2b2a; }
   .nav-main-ul a { width: 100%; height: 100%; display: flex; justify-content: flex-start; align-items: center; margin: 0px; }
   .nav-main-ul li:hover { height: auto; }
   .nav-main-ul li:nth-child(3) { display: flex; flex-direction: column; padding: 0px 20px; }
-  .nav-nested-ul { position: static; display: none; flex-direction: column; width: 100%; height: auto; }
+  .nav-nested-ul { position: static; display: none; flex-direction: column; width: 100%; height: auto; overflow-y: auto; }
   .nav-active { transform: translateX(0%); } }
 
 footer { display: flex; flex-direction: row; align-items: center; justify-content: center; }
