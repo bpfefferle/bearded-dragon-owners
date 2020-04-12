@@ -9,7 +9,7 @@ title: Bearded Dragon Owners Blog
     {% for post in site.posts %}
         <div class="post-thumbnail">
             <!-- Title of post with link -->
-            <div class="post-title"><a href="/{{post.url}}"><h2>{{post.title}}</h2></a></div>
+            <div class="post-title"><a href="{{post.url}}"><h2>{{post.title}}</h2></a></div>
             <!-- Image of post with link -->
             <a href="/{{post.url}}">{{post.image}}</a>
             <!-- Author of post and date when created -->
@@ -21,7 +21,7 @@ title: Bearded Dragon Owners Blog
             <!-- Description of post -->
             <p class="post-description">{{post.description}}</p>
             <!-- Keep reading -->
-            <a class="cta-link" href="/{{post.url}}">Continue Reading</a>
+            <a class="cta-link" href="{{post.url}}">Continue Reading</a>
         </div>
     {% endfor %}
 </div>
