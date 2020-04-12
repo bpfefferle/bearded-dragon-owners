@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- Metadata -->
+    <meta charset="UTF-8">
+    <meta name="description" content="An educational website dedicated to Bearded Dragon care and information.">
+    <meta name="keywords" content="bearded dragon, pogona, pogona vitticeps, reptile, lizard, central bearded dragon, inland bearded dragon, bearded dragon care, bearded dragon advice, bearded dragon tips, bearded dragon blog, bearded dragon articles, bearded dragon information, bearded dragon facts, bearded dragon owners">
+    <meta name="author" content="Brent Pfefferle">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Facebook -->
+    <meta property="og:url" content="#" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bearded Dragon Owners" />
+    <meta property="og:description" content="An educational website dedicated to Bearded Dragon care and information." />
+    <meta property="og:image" content="#" />
+    <!-- Page title -->
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <!-- CSS reset -->
+    <link rel="stylesheet" href="/beardeddragonowners/assets/css/reset.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="{{ "/beardeddragonowners/assets/css/main.css" | relative_url }}">
+     <!-- Google font -->
+     <link href="https://fonts.googleapis.com/css?family=Poppins:700|Roboto:300&display=swap" rel="stylesheet"> 
+    <!-- Line awesome --> 
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+  </head>
+  <body>
+    <!-- Grid container -->
+    <div class="website-layout">
+      <!-- Main nav -->
+      {% include main-nav.html %}
+      <!-- Main content -->
+      {% include main-content.html %}
+      <!-- Right content -->
+      {% include alternate-right-content.html %}
+      <!-- Footer -->
+      {% include footer.html %}
+    </div>
+    <!-- JS -->
+    <script src="/beardeddragonowners/assets/js/main.js"></script>
+  </body>
+</html>
