@@ -15,7 +15,7 @@ in the near future.</p>
 
 <h2>Meet the Creator</h2>
 
-<img class="my-picture" src="/assets/img/about/me.png">
+<img class="my-picture" src="/beardeddragonowners/assets/img/about/me.png">
 
 <p>Hello, my name is Brent! There are two things to know about me 
 that would help explain how my community came into existence. 
@@ -34,11 +34,11 @@ of time with Bearded throughout the years. Overall, I think
 Bearded Dragons are awesome!</p>
 
 <div class="picture-grid">
-    <img src="/assets/img/about/scarlett.jpg">
-    <img src="/assets/img/about/sedona.jpg">
-    <img src="/assets/img/about/daisy.jpg">
-    <img src="/assets/img/about/little-dude.jpg">
-    <img src="/assets/img/about/blaze.jpg">
-    <img src="/assets/img/about/baby-dragon.jpg">
+    <img src="/beardeddragonowners/assets/img/about/scarlett.jpg">
+    <img src="/beardeddragonowners/assets/img/about/sedona.jpg">
+    <img src="/beardeddragonowners/assets/img/about/daisy.jpg">
+    <img src="/beardeddragonowners/assets/img/about/little-dude.jpg">
+    <img src="/beardeddragonowners/assets/img/about/blaze.jpg">
+    <img src="/beardeddragonowners/assets/img/about/baby-dragon.jpg">
 </div>
 </div>
