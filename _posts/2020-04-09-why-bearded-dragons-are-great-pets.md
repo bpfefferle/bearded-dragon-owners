@@ -1,15 +1,18 @@
 ---
 layout: blog
-title: "Why Bearded Dragons Are Great Pets"
+title: Why Bearded Dragons Are Great Pets
 image: <img class="post-img" src="/assets/img/blog/why-bearded-dragons-are-great-pets.jpg" alt="Picture of a Bearded Dragon.">
 description: If you're interested in becoming a reptile owner, then look no futher than the Bearded Dragon. Here are several reasons why Bearded Dragons make great pets.
 author: Brent Pfefferle
 tags: [bearded dragon, pogona vitticeps, why bearded dragons are great pets]
 ---
+
 <!--Show More-->
 
 # {{page.title}}
 {{page.image}}
+
+<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/09/why-bearded-dragons-are-great-pets.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F09%2Fwhy-bearded-dragons-are-great-pets.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## #1. They're Docile
 

@@ -8,11 +8,11 @@
     <meta name="author" content="Brent Pfefferle">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Facebook -->
-    <meta property="og:url" content="{{page.url}}">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{page.title}}">
-    <meta property="og:description" content="{{page.description}}">
-    <meta property="og:image" content="{{page.image}}">
+    <meta property="og:url" content="{{page.url}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:description" content="{{page.description}}" /> 
+    <meta property="og:image" content="{{page.image}}" />
     <!-- Page title -->
     <title>{{ page.title }} - {{ site.title }}</title>
     <!-- CSS reset -->
@@ -38,5 +38,8 @@
     </div>
     <!-- JS -->
     <script src="/assets/js/main.js"></script>
+    <!-- FB plugin -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
   </body>
 </html>
