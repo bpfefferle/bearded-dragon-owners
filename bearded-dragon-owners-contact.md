@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Bearded Dragon Owners
+description: Send us a message.
 ---
 
 <!-- CONTACT -->

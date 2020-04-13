@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Bearded Dragon Health"
+description: An introduction to common Bearded Dragon health issues.
 ---
 
 # {{ page.title }}

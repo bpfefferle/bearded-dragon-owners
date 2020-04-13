@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Common Bearded Dragon Behaviors"
+description: An introduction to common Bearded Dragon behaviors.
 ---
 
 <h1>{{page.title}}</h1>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Types of Bearded Dragons"
+description: An introduction to Bearded Dragon species and morphs.
 ---
 
 <!-- Bearded Dragon Morphs-->

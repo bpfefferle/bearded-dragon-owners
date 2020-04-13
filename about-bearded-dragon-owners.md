@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Bearded Dragon Owners
+description: How Bearded Dragon Owners came to be.
 ---
 
 <h1>{{page.title}}</h1>
