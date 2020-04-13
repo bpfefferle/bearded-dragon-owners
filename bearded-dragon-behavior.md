@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Common Bearded Dragon Behaviors"
+title: Common Bearded Dragon Behaviors
 description: An introduction to common Bearded Dragon behaviors.
 ---
 

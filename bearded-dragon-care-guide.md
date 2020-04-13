@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bearded Dragon Owners Care Guide
-description: A care guide for Bearded Dragons.
+description: How to take care of a Bearded Dragon.
 ---
 
 <h1>{{page.title}}</h1>
