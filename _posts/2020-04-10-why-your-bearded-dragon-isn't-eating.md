@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Why Your Bearded Dragon Isn't Eating
+title: "Why Your Bearded Dragon Isn't Eating"
 image: <img class="post-img" src="/assets/img/blog/why-your-bearded-dragon-isn't-eating.jpg" alt="Picture of a Bearded Dragon.">
 description: A Bearded Dragon may stop eating for various reasons, here are some reasons why your Bearded Dragon may not be eating.
 author: Brent Pfefferle
