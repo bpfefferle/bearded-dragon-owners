@@ -1,0 +1,105 @@
+I"[<!--Show More-->
+
+<h1 id="what-to-name-your-bearded-dragon-name-generator">What to Name Your Bearded Dragon (Name Generator)</h1>
+<p><img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon." /></p>
+
+<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/10/why-your-bearded-dragon-isn&#039;t-eating.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F10%2Fwhy-your-bearded-dragon-isn%27t-eating.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+
+<p>If you’re having trouble coming up with a name for 
+your Bearded Dragon, then use our name generator 
+and hopefully you will find a name that you like.</p>
+
+<div class="list-of-female-names">
+    <h2>Girl Names</h2>
+    <ul>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+        <li class="li-female-name"></li>
+    </ul>
+    <button id="btnFemaleNames">Get More Names</button>
+</div>
+
+<div class="list-of-male-names">
+    <h2>Boy Names</h2>
+    <ul>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+        <li class="li-male-name"></li>
+    </ul>
+    <button id="btnMaleNames">Get More Names</button>
+</div>
+
+<h2 id="other-name-ideas">Other Name Ideas</h2>
+
+<p>Still having trouble? How about naming your Bearded 
+Dragon after your favorite movie or video game character?</p>
+
+<h2 id="video-games">Video Games</h2>
+
+<div class="other-names">
+    <ul>
+        <li>Spyro (Spyro the Dragon)</li>
+        <li>Yoshi (Super Mario World)</li>
+        <li>Rayquaza (Pokémon Ruby/Sapphire)</li>
+        <li>Charizard (Pokémon Red/Blue)</li>
+        <li>Gyrados (Pokémon Red/Blue)</li>
+        <li>Bahamut (Final Fantasy)</li>
+        <li>Phalanx (Shadow of the Colossus)</li>
+        <li>Angelus (Drakengard)</li>
+        <li>Alexstrasza (World of Warcraft)</li>
+        <li>Arokh (Drakan)</li>
+        <li>Bonetail (Paper Mario)</li>
+        <li>Reptile (Mortal Kombat)</li>
+        <li>Shenron (Dragon Ball FighterZ)</li>
+        <li>Alduin (The Elder Scrolls V: Skyrim)</li>
+        <li>Deathwing (World of Warcraft: Cataclysm)</li>
+        <li>Gex (Gex)</li>
+        <li>Agumon (Digimon)</li>
+    </ul>
+</div>
+
+<h2 id="movies-and-tv">Movies and TV</h2>
+
+<div class="other-names">
+    <ul>
+        <li>Little Foot (The Land Before Time)</li>
+        <li>Sharptooth (The Land Before Time)</li>
+        <li>Chomper (The Land Before Time)</li>
+        <li>Reptar (Rugrats)</li>
+        <li>Rex (Toy Story)</li>
+        <li>Mushu (Mulan)</li>
+        <li>Dino (The Flintstones)</li>
+        <li>Toothless (How to Train Your Dragon)</li>
+        <li>Draco (Dragonheart)</li>
+        <li>Elliot (Pete's Dragon)</li>
+        <li>Viserion (Game of Thrones)</li>
+        <li>Falkor (The NeverEnding Story)</li>
+        <li>Dragon (Shrek)</li>
+        <li>Norbert (Harry Potter)</li>
+        <li>Kilgharrah (Merlin)</li>
+        <li>Smaug (The Hobbit)</li>
+        <li>Drogon (Game of Thrones)</li>
+    </ul>
+</div>
+
+<script src="../assets/js/name-generator.js"></script>
+
+:ET

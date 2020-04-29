@@ -139,4 +139,14 @@ footer { display: flex; flex-direction: row; align-items: center; justify-conten
 
 .table td { border: 1px solid #2a2b2a; padding: 5px; }
 
+.list-of-male-names ul, .list-of-female-names ul { list-style-type: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; }
+
+.list-of-male-names ul li, .list-of-female-names ul li { padding: 0.5rem 0rem; text-align: center; }
+
+#btnMaleNames, #btnFemaleNames { border-radius: 10px; border: none; text-align: center; padding: 10px; margin: 25px 0px; background: #0d5c63; color: #fffffa; cursor: pointer; }
+
+#btnMaleNames:hover, #btnFemaleNames:hover { background: #2a2b2a; }
+
+.other-names ul { list-style-type: none; }
+
 /*# sourceMappingURL=main.css.map */

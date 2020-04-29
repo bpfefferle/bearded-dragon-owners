@@ -12,7 +12,9 @@ tags: [bearded dragon, pogona vitticeps, why bearded dragons are great pets]
 # {{page.title}}
 {{page.image}}
 
+
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/09/why-bearded-dragons-are-great-pets.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F09%2Fwhy-bearded-dragons-are-great-pets.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+
 
 ## #1. They're Docile
 

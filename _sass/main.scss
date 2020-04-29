@@ -412,11 +412,41 @@ footer{
   text-align: center;
 }
 
-.table th{
-
-}
-
 .table td{
   border: 1px solid $color2;
   padding: 5px;
+}
+
+// Name generator (blog post on 4/28/20).
+.list-of-male-names ul, .list-of-female-names ul{
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+}
+
+.list-of-male-names ul li, .list-of-female-names ul li{
+  padding: 0.5rem 0rem;
+  // background: $color2;
+  // color: $color3;
+  text-align: center;
+}
+
+#btnMaleNames, #btnFemaleNames{
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  padding: 10px;
+  margin: 25px 0px;
+  background: $color1;
+  color: $color3;
+  cursor: pointer;
+}
+
+#btnMaleNames:hover, #btnFemaleNames:hover{
+  background: $color2;
+}
+
+.other-names ul{
+  list-style-type: none;
 }
