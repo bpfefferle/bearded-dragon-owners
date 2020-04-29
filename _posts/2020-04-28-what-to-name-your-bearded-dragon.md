@@ -2,7 +2,7 @@
 layout: blog
 title: What to Name Your Bearded Dragon
 image: <img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
-description: Do you need help coming up with a name for your Bearded Dragon? If so, try our name generator!
+description: For name ideas, try our name generator!
 author: Brent Pfefferle
 tags: [bearded dragon, pogona vitticeps, name generator, name ideas, what to name your bearded dragon, name ideas for a bearded dragon]
 ---
