@@ -1,12 +1,12 @@
-I"è<!-- Blog Feed -->
+I"š<!-- Blog Feed -->
 <h1>Bearded Dragon Owners Blog</h1>
 <div class="blog-feed">
     
         <div class="post-thumbnail">
             <!-- Title of post with link -->
-            <div class="post-title"><a href="/2020/04/28/what-to-name-your-bearded-dragon.html"><h2>Name Ideas For Your Bearded Dragon</h2></a></div>
+            <div class="post-title"><a href="/2020/04/28/what-to-name-your-bearded-dragon.html"><h2>What to Name Your Bearded Dragon</h2></a></div>
             <!-- Image of post with link -->
-            <a href="/2020/04/28/what-to-name-your-bearded-dragon.html"><img class="post-img" src="/assets/img/blog/why-your-bearded-dragon-isn't-eating.jpg" alt="Picture of a Bearded Dragon." /></a>
+            <a href="/2020/04/28/what-to-name-your-bearded-dragon.html"><img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon." /></a>
             <!-- Author of post and date when created -->
             <div class="post-author-and-date">
                 <!-- Author and date -->
@@ -14,7 +14,7 @@
                 <p><i class="las la-clock"></i> 04/28/2020</p>
             </div>
             <!-- Description of post -->
-            <p class="post-description">Are you still struggling to come up with a name for your Bearded Dragon? If so, here are some name suggestions.</p>
+            <p class="post-description">For name ideas, try our name generator!</p>
             <!-- Keep reading -->
             <a class="cta-link" href="/2020/04/28/what-to-name-your-bearded-dragon.html">Continue Reading</a>
         </div>
