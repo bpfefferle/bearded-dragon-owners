@@ -62,12 +62,12 @@ amzn_assoc_title = "Shop Live Food on Amazon";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-## #5) Use Freeze-Dried Food
+## #5) Use Freeze Dried Food
 
-An alternative to live food, freeze-dried food can also be used as a way to attract interest 
+An alternative to live food, freeze dried food can also be used as a way to attract interest 
 in a salad. For example, Fluker's Buffet Blend includes tiny red pellets along with 
-freeze-dried crickets and mealworms. As stated earlier, colorful foods and live food 
-(in this case, an illusion) may help your Bearded Dragon gain interest in eating its salad. It's worth noting that live food and fresh vegetables should never be replaced by freeze-dried 
+freeze dried crickets and mealworms. As stated earlier, colorful foods and live food 
+(in this case, an illusion) may help your Bearded Dragon gain interest in eating its salad. It's worth noting that live food and fresh vegetables should never be replaced by freeze dried 
 food. In other words, use these products as something extra as you try to get your reptile 
 interested in vegetables.
 
