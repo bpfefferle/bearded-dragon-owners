@@ -2,7 +2,7 @@
 layout: blog
 title: Training Your Bearded Dragon to Eat Vegetables 
 image: <img class="post-img" src="/assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.jpg" alt="Picture of a Bearded Dragon.">
-description: Sometimes, it can be difficult to get a Bearded Dragon to eat vegetables. Here are a few tips on how to get a Bearded Dragon interested in eating vegetables.
+description: Tips to get your Bearded Dragon interested in vegetables.
 author: Brent Pfefferle
 tags: [bearded dragon, pogona vitticeps, name generator, name ideas, what to name your bearded dragon, name ideas for a bearded dragon]
 ---
