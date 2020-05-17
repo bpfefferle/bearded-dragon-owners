@@ -1,6 +1,23 @@
-I"š<!-- Blog Feed -->
+I"u<!-- Blog Feed -->
 <h1>Bearded Dragon Owners Blog</h1>
 <div class="blog-feed">
+    
+        <div class="post-thumbnail">
+            <!-- Title of post with link -->
+            <div class="post-title"><a href="/2020/05/15/training-your-bearded-dragon-to-eat-vegetables.html"><h2>Training Your Bearded Dragon to Eat Vegetables</h2></a></div>
+            <!-- Image of post with link -->
+            <a href="/2020/05/15/training-your-bearded-dragon-to-eat-vegetables.html"><img class="post-img" src="/assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.jpg" alt="Picture of a Bearded Dragon." /></a>
+            <!-- Author of post and date when created -->
+            <div class="post-author-and-date">
+                <!-- Author and date -->
+                <p><i class="lar la-user"></i> Brent Pfefferle</p>
+                <p><i class="las la-clock"></i> 05/15/2020</p>
+            </div>
+            <!-- Description of post -->
+            <p class="post-description">Sometimes, it can be difficult to get a Bearded Dragon to eat vegetables. Here are a few tips on how to get a Bearded Dragon interested in eating vegetables.</p>
+            <!-- Keep reading -->
+            <a class="cta-link" href="/2020/05/15/training-your-bearded-dragon-to-eat-vegetables.html">Continue Reading</a>
+        </div>
     
         <div class="post-thumbnail">
             <!-- Title of post with link -->
