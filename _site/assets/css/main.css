@@ -113,6 +113,8 @@ footer p { margin: 5px; }
 
 .merch-grid img { width: 100%; border-radius: 10px; }
 
+.ad-space { border: 2px dashed #0d5c63; padding: 10px; text-align: center; text-transform: uppercase; font-weight: 900; }
+
 .picture-grid { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 0px; padding: 10px 0px; }
 
 .picture-grid img { width: 100%; }

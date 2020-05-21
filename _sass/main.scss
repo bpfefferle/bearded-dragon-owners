@@ -336,6 +336,14 @@ footer p{
   border-radius: 10px;
 }
 
+.ad-space{
+  border: 2px dashed $color1;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
 // About.
 .picture-grid{
   display: grid;
