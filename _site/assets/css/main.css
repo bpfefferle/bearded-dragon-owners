@@ -38,6 +38,10 @@ body a { color: #0d5c63; }
 
 body a:hover { color: #2a2b2a; }
 
+footer a { color: #fffffa; }
+
+footer a:hover { color: #2a2b2a; }
+
 @media only screen and (max-width: 800px) { .bottom-bar .nav-main-ul a:hover { background: none; } }
 
 .website-layout { display: grid; grid-template-columns: 1fr 610px 15px 335px 1fr; grid-template-areas: "top-bar top-bar top-bar top-bar top-bar" "bottom-bar bottom-bar bottom-bar bottom-bar bottom-bar" ". main-content . right-content ." "footer footer footer footer footer"; }
@@ -99,7 +103,9 @@ body a:hover { color: #2a2b2a; }
   .nav-nested-ul { position: static; display: none; flex-direction: column; width: 100%; height: auto; }
   .nav-active { transform: translateX(0%); } }
 
-footer { display: flex; flex-direction: row; align-items: center; justify-content: center; }
+footer { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+footer p { margin: 5px; }
 
 .recent-posts a { text-decoration: none; }
 

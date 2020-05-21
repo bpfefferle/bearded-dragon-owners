@@ -69,6 +69,14 @@ body a:hover{
   color: $color2;
 }
 
+footer a{
+  color: $color3;
+}
+
+footer a:hover{
+  color: $color2;
+}
+
 // Mobile nav color.
 @media only screen and (max-width: 800px) {
   .bottom-bar .nav-main-ul a:hover{
@@ -304,9 +312,13 @@ body a:hover{
 // Footer.
 footer{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+footer p{
+  margin: 5px;
 }
 
 // Right sidebar.
