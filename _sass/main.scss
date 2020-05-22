@@ -73,10 +73,6 @@ footer a{
   color: $color3;
 }
 
-footer a:hover{
-  color: $color2;
-}
-
 // Mobile nav color.
 @media only screen and (max-width: 800px) {
   .bottom-bar .nav-main-ul a:hover{
