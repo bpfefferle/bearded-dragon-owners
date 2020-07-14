@@ -23,21 +23,6 @@ description: How to take care of a Bearded Dragon.
                 Dragons should not be housed together regardless of age or sex. In summary, housing Bearded 
                 Dragons together is dangerous and detrimental to their mental health.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B01N5FJ3E4,B077QHSYWX,B07CV797LC,B07KP2D42W";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Enclosures on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Lighting -->
     <div>
@@ -66,21 +51,6 @@ description: How to take care of a Bearded Dragon.
                 UVB is a good idea. However, use caution and take preventative measures to avoid losing 
                 your Bearded Dragon or allowing it to eat anything from outside. </li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B00AQU8HAO,B00AQU8F2O,B0006L2UBU,B0002DHODG,B07H3YJB96";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Bulbs and Fixtures on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Substrate -->
     <div>
@@ -95,21 +65,6 @@ description: How to take care of a Bearded Dragon.
                 shelf liner, slate tile, reptile carpet, or even paper towels. In brief, solid substrates 
                 are much safer and of course cleaner.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B00C2LMN32,B000MD3NWM,B0027IQANE,B00FZGZKHW";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Substrates on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Tank Decor -->
     <div>
@@ -123,21 +78,6 @@ description: How to take care of a Bearded Dragon.
                 since Bearded Dragons rarely drink from still water and the water itself may 
                 cause issues with humidity.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B00176B39S,B000EVC8SM,B00C0PCIZI,B00XWWW4FC";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Tank Decor on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Diet -->
     <div>
@@ -155,21 +95,6 @@ description: How to take care of a Bearded Dragon.
                 outside food may have parasites or it may have come in contact with pesticides. In addition, some outside 
                 foods could be toxic. In conclusion, it's not worth the risks.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B00DXLRHVS,B008D95M30,B008PL677G,B00T24MJQ8,B0160BEKAI";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Live Food on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Diet -->
     <div>
@@ -203,21 +128,6 @@ description: How to take care of a Bearded Dragon.
                 Bearded Dragon as there really isn't a fixed schedule for all Bearded Dragons. Overall, dusting 
                 really depends on the reptile's diet, lighting, and overall health.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B000UJPHL8,B005FTMHFC,B00BS96G1E,B00076HT3S";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Food Supplementation on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Cleaning -->
     <div>
@@ -237,20 +147,5 @@ description: How to take care of a Bearded Dragon.
                 <li>If a Bearded Dragon is forced to live in an unsanitary environment, then it 
                 could develop health issues such as yellow fungus disease.</li>
             </ul>
-            <!-- Amazon native ad -->
-            <p>As an Amazon Associate I earn from qualifying purchases.</p>
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-            amzn_assoc_asins = "B00DR25TSG,B0006G5F0S,B000OR0CHA,B00DHHLAFC";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_title = "Shop Cleaning Supplies on Amazon";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
 </div>
