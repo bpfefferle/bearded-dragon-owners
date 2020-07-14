@@ -35,7 +35,7 @@ description: How to take care of a Bearded Dragon.
                 <!--  -->
                 <li>Not only does a Bearded Dragon require heat, but they also require UVB to thrive. A 
                 Bearded Dragon's enclosure should have a tube UVB bulb that spans two-thirds of the 
-                enclosure's length. We suggest using the Reptisun 10.0 T5 HO, Reptisun 10.0 T8, or 
+                enclosure's length. We suggest using the Reptisun 10.0 T5 HO or 
                 the Arcadia 12%. In contrast, we do not recommend using small compact or coil UVB 
                 bulbs as they do not provide the best UVB exposure.</li>
                 <!--  -->
