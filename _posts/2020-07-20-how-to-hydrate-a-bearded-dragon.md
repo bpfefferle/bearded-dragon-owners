@@ -14,13 +14,15 @@ tags: [bearded dragon, pogona vitticeps, how to hydrate a bearded dragon, giving
 
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/07/20/how-to-hydrate-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F07%2F20%2Fhow-to-hydrate-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
-## #1. Use a Dropper
+## #1. Use a Syringe
 
-Using a dropper can be the easiest method for providing water to 
+Using a syringe can be the easiest method for providing water to 
 your Bearded Dragon. Of course, it might take a few tries to teach 
-your Bearded Dragon. Although, it shouldn't be too hard. To use a 
-dropper, simply drop some water on your Bearded Dragon's mouth and 
-hopefully the reptile will begin to drink the water.
+your Bearded Dragon to drink water from a syringe. Although, it shouldn't 
+be too hard since all you have to do is drop water on the reptile's mouth 
+and hopefully the reptile will begin to lick the water.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=beardeddragonownerswebsite-20&language=en_US&marketplace=amazon&region=US&placement=B010BWOOXA&asins=B010BWOOXA&linkId=c2f606f376d17fe432310185a967c912&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <img class="post-img" src="/assets/img/blog/dropper.jpg" alt="Bearded Dragon drinking water from a dropper.">
 
