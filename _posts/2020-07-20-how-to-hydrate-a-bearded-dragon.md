@@ -22,8 +22,6 @@ your Bearded Dragon to drink water from a syringe. Although, it shouldn't
 be too hard since all you have to do is drop water on the reptile's mouth 
 and hopefully the reptile will begin to lick the water.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=beardeddragonownerswebsite-20&language=en_US&marketplace=amazon&region=US&placement=B010BWOOXA&asins=B010BWOOXA&linkId=c2f606f376d17fe432310185a967c912&show_border=true&link_opens_in_new_window=true"></iframe>
-
 <img class="post-img" src="/assets/img/blog/dropper.jpg" alt="Bearded Dragon drinking water from a dropper.">
 
 ## #2. Mist Greens
