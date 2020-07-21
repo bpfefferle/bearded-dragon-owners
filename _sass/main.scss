@@ -332,6 +332,16 @@ footer p{
   border-radius: 10px;
 }
 
+.merch-card{
+  transition: transform .2s;
+  margin: 20px 0px;
+}
+
+.merch-card:hover{
+  transform: scale(1.1);
+  z-index: 1;
+}
+
 .ad-space{
   border: 2px dashed $color1;
   padding: 10px;
