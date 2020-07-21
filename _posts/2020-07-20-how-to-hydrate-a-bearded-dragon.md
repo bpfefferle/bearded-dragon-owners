@@ -2,7 +2,7 @@
 layout: blog
 title: How to Hydrate a Bearded Dragon
 image: <img class="post-img" src="/assets/img/blog/how-to-hydrate-a-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
-description: Yes, even Bearded Dragons can become dehydrated! It's a good idea to offer your Bearded Dragon some water. Here are a few tips on getting your Bearded Dragon to drink water.
+description: A few tips for keeping your Bearded Dragon hydrated.
 author: Brent Pfefferle
 tags: [bearded dragon, pogona vitticeps, how to hydrate a bearded dragon, giving a bearded dragon water, how to make a bearded dragon drink water]
 ---
