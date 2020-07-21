@@ -12,8 +12,7 @@ tags: [bearded dragon, pogona vitticeps, how to hydrate a bearded dragon, giving
 # {{page.title}}
 {{page.image}}
 
-<div class="fb-share-button" data-href="http://127.0.0.1:4000/2020/07/20/how-to-hydrate-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F127.0.0.1%3A4000%2F2020%2F07%2F20%2Fhow-to-hydrate-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
-
+<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/07/20/how-to-hydrate-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F07%2F20%2Fhow-to-hydrate-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## #1. Use a Dropper
 
