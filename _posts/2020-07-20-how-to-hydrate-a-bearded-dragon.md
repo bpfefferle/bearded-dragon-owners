@@ -14,6 +14,10 @@ tags: [bearded dragon, pogona vitticeps, how to hydrate a bearded dragon, giving
 
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/07/20/how-to-hydrate-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F07%2F20%2Fhow-to-hydrate-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
+A Bearded Dragon should get enough moisture simply from their diet. However, Bearded Dragons can still 
+become dehydrated. If you're not sure if your Bearded Dragon is getting enough water, then here 
+are a few tips on offering water to your Bearded Dragon.
+
 ## #1. Use a Syringe
 
 Using a syringe can be the easiest method for providing water to 
