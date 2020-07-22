@@ -20,7 +20,8 @@ Using a syringe can be the easiest method for providing water to
 your Bearded Dragon. Of course, it might take a few tries to teach 
 your Bearded Dragon to drink water from a syringe. Although, it shouldn't 
 be too hard since all you have to do is drop water on the reptile's mouth 
-and hopefully the reptile will begin to lick the water.
+and hopefully the reptile will begin to lick the water (do not force 
+the Bearded Dragon to drink water from a syringe).
 
 <img class="post-img" src="/assets/img/blog/dropper.jpg" alt="Bearded Dragon drinking water from a dropper.">
 
