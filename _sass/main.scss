@@ -73,6 +73,10 @@ footer a{
   color: $color3;
 }
 
+.amazon-disclosure{
+  margin: 20px 0px;
+}
+
 // Mobile nav color.
 @media only screen and (max-width: 800px) {
   .bottom-bar .nav-main-ul a:hover{

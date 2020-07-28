@@ -40,6 +40,8 @@ body a:hover { color: #2a2b2a; }
 
 footer a { color: #fffffa; }
 
+.amazon-disclosure { margin: 20px 0px; }
+
 @media only screen and (max-width: 800px) { .bottom-bar .nav-main-ul a:hover { background: none; } }
 
 .website-layout { display: grid; grid-template-columns: 1fr 610px 15px 335px 1fr; grid-template-areas: "top-bar top-bar top-bar top-bar top-bar" "bottom-bar bottom-bar bottom-bar bottom-bar bottom-bar" ". main-content . right-content ." "footer footer footer footer footer"; }

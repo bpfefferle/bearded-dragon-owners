@@ -1,19 +1,6 @@
----
-layout: default
-title: Bearded Dragon Owners Care Guide
-description: How to take care of a Bearded Dragon.
----
-
-<h1>{{page.title}}</h1>
+I"ç.<h1>Bearded Dragon Owners Care Guide</h1>
 
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/bearded-dragon-care-guide.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2Fbearded-dragon-care-guide.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
-
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases. In other words, 
-    Bearded Dragon Owners is a participant in the Amazon Services LLC Associates Program, 
-    an affiliate advertising program designed to provide a means for sites to earn advertising 
-    fees by advertising and linking to Amazon.com.</p>
-</div>
 
 <div>
     <!-- Housing -->
@@ -31,6 +18,7 @@ description: How to take care of a Bearded Dragon.
                 Dragons together is dangerous and detrimental to their mental health.</li>
             </ul>
             <!-- Amazon -->
+            <p>As an amazon associate, I earn from qualifying purchases.</p>
             <script type="text/javascript">
             amzn_assoc_placement = "adunit0";
             amzn_assoc_search_bar = "true";
@@ -73,6 +61,7 @@ description: How to take care of a Bearded Dragon.
                 your Bearded Dragon or allowing it to eat anything from outside. </li>
             </ul>
             <!-- Amazon -->
+            <p>As an amazon associate, I earn from qualifying purchases.</p>
             <script type="text/javascript">
             amzn_assoc_placement = "adunit0";
             amzn_assoc_search_bar = "true";
@@ -109,7 +98,7 @@ description: How to take care of a Bearded Dragon.
             amzn_assoc_ad_type = "smart";
             amzn_assoc_marketplace = "amazon";
             amzn_assoc_region = "US";
-            amzn_assoc_title = "Shop Substrate on Amazon";
+            amzn_assoc_title = "Shop Terrariums on Amazon";
             amzn_assoc_linkid = "d5b0909432d4487b578c19c3c222c44c";
             amzn_assoc_asins = "B000MD3NWM,B0027P94ZI,B003NMBF38,B00DV3WTUW";
             </script>
@@ -127,20 +116,6 @@ description: How to take care of a Bearded Dragon.
                 since Bearded Dragons rarely drink from still water and the water itself may 
                 cause issues with humidity.</li>
             </ul>
-            <!-- Amazon -->
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_title = "Shop Decor on Amazon";
-            amzn_assoc_linkid = "d5b0909432d4487b578c19c3c222c44c";
-            amzn_assoc_asins = "B00XWWW4FC,B001OVGMLK,B001B5E9WS,B0032GAL4Y";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Diet -->
     <div>
@@ -158,20 +133,6 @@ description: How to take care of a Bearded Dragon.
                 outside food may have parasites or it may have come in contact with pesticides. In addition, some outside 
                 foods could be toxic. In conclusion, it's not worth the risks.</li>
             </ul>
-            <!-- Amazon -->
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_title = "Shop Live Food on Amazon";
-            amzn_assoc_linkid = "d5b0909432d4487b578c19c3c222c44c";
-            amzn_assoc_asins = "B018J9SQSG,B06ZZC97LF,B01017Q74O,B00DXLRHVS";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Diet -->
     <div>
@@ -205,20 +166,6 @@ description: How to take care of a Bearded Dragon.
                 Bearded Dragon as there really isn't a fixed schedule for all Bearded Dragons. Overall, dusting 
                 really depends on the reptile's diet, lighting, and overall health.</li>
             </ul>
-            <!-- Amazon -->
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_title = "Shop Supplements on Amazon";
-            amzn_assoc_linkid = "d5b0909432d4487b578c19c3c222c44c";
-            amzn_assoc_asins = "B000UJPHL8,B00076HT3S,B00BS96G1E,B000QFMV7Y";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
     <!-- Cleaning -->
     <div>
@@ -238,19 +185,6 @@ description: How to take care of a Bearded Dragon.
                 <li>If a Bearded Dragon is forced to live in an unsanitary environment, then it 
                 could develop health issues such as yellow fungus disease.</li>
             </ul>
-            <!-- Amazon -->
-            <script type="text/javascript">
-            amzn_assoc_placement = "adunit0";
-            amzn_assoc_search_bar = "true";
-            amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_title = "Shop Cleaning Supplies on Amazon";
-            amzn_assoc_linkid = "d5b0909432d4487b578c19c3c222c44c";
-            amzn_assoc_asins = "B0006G5F0S,B001B4VO5E,B01M4NCV16,B078H9L6PH";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     </div>
 </div>
+:ET
