@@ -4,6 +4,13 @@ title: "Bearded Dragon Health"
 description: An introduction to common Bearded Dragon health issues.
 ---
 
+<div class="amazon-disclosure">
+    <p>As an Amazon associate, I earn from qualifying purchases. In other words, 
+    Bearded Dragon Owners is a participant in the Amazon Services LLC Associates Program, 
+    an affiliate advertising program designed to provide a means for sites to earn advertising 
+    fees by advertising and linking to Amazon.com.</p>
+</div>
+
 # {{ page.title }}
 
 It may not always be easy to tell if your Bearded 

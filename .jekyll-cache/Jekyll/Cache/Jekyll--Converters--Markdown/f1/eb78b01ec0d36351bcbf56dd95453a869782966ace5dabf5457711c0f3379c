@@ -1,17 +1,11 @@
----
-layout: default
-title: About Bearded Dragon Owners
-description: How Bearded Dragon Owners came to be.
----
-
-<div class="amazon-disclosure">
+I"ç<div class="amazon-disclosure">
     <p>As an Amazon associate, I earn from qualifying purchases. In other words, 
     Bearded Dragon Owners is a participant in the Amazon Services LLC Associates Program, 
     an affiliate advertising program designed to provide a means for sites to earn advertising 
     fees by advertising and linking to Amazon.com.</p>
 </div>
 
-<h1>{{page.title}}</h1>
+<h1>About Bearded Dragon Owners</h1>
 
 <div>
 <p>Bearded Dragon Owners is a "just for fun" community that started 
@@ -23,7 +17,7 @@ in the near future.</p>
 
 <h2>Meet the Creator</h2>
 
-<img class="my-picture" src="/assets/img/about/me.png">
+<img class="my-picture" src="/assets/img/about/me.png" />
 
 <p>Hello, my name is Brent! There are two things to know about me 
 that would help explain how my community came into existence. 
@@ -42,11 +36,12 @@ of time with Bearded throughout the years. Overall, I think
 Bearded Dragons are awesome!</p>
 
 <div class="picture-grid">
-    <img src="/assets/img/about/scarlett.jpg">
-    <img src="/assets/img/about/sedona.jpg">
-    <img src="/assets/img/about/daisy.jpg">
-    <img src="/assets/img/about/little-dude.jpg">
-    <img src="/assets/img/about/blaze.jpg">
-    <img src="/assets/img/about/baby-dragon.jpg">
+    <img src="/assets/img/about/scarlett.jpg" />
+    <img src="/assets/img/about/sedona.jpg" />
+    <img src="/assets/img/about/daisy.jpg" />
+    <img src="/assets/img/about/little-dude.jpg" />
+    <img src="/assets/img/about/blaze.jpg" />
+    <img src="/assets/img/about/baby-dragon.jpg" />
 </div>
 </div>
+:ET

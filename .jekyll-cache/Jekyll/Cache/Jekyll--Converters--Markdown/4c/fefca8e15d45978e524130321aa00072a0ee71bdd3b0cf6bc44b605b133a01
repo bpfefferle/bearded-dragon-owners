@@ -1,27 +1,22 @@
----
-layout: default
-title: "Types of Bearded Dragons"
-description: An introduction to Bearded Dragon species and morphs.
----
+I"�<!-- Bearded Dragon Morphs-->
+<h1>Types of Bearded Dragons</h1>
 
-<!-- Bearded Dragon Morphs-->
 <div class="amazon-disclosure">
     <p>As an Amazon associate, I earn from qualifying purchases. In other words, 
     Bearded Dragon Owners is a participant in the Amazon Services LLC Associates Program, 
     an affiliate advertising program designed to provide a means for sites to earn advertising 
     fees by advertising and linking to Amazon.com.</p>
 </div>
-<h1>{{page.title}}</h1>
 
-## Species
+<h2 id="species">Species</h2>
 
-In the wild, there are several different types of Bearded Dragon 
+<p>In the wild, there are several different types of Bearded Dragon 
 species. All Bearded Dragons originate from Australia and 
 may be found in various regions of the continent. For instance, 
 a Pogona vitticeps (the Bearded Dragon species that is often 
 found available for sale in the pet industry) can be found in 
 Central Australia, hence the reason it is known as a Central (or Inland) 
-Bearded Dragon.
+Bearded Dragon.</p>
 
 <table class="table">
     <tr>
@@ -60,17 +55,17 @@ Bearded Dragon.
         <td>Pogona nullarbor</td>
         <td>Nullarbor Bearded Dragon</td>
     </tr>
-</table> 
+</table>
 
-## Morphs
+<h2 id="morphs">Morphs</h2>
 
-In captivity, Bearded Dragons have been bred to feature various 
+<p>In captivity, Bearded Dragons have been bred to feature various 
 patterns, colors, and other types of traits. In brief, these 
 unique Bearded Dragons are known as Bearded Dragon morphs. In 
 other words, these reptiles are variant forms of a standard 
-Bearded Dragon.
+Bearded Dragon.</p>
 
-## Scale Type
+<h2 id="scale-type">Scale Type</h2>
 
 <ul>
     <li>Normal.</li>
@@ -79,13 +74,13 @@ Bearded Dragon.
     <li>Silkback.</li>
 </ul>
 
-The scale type refers to the actual scales of the reptile. For example, a Bearded Dragon 
+<p>The scale type refers to the actual scales of the reptile. For example, a Bearded Dragon 
 with normal scales will have rigid scales all over its body. In contrast, a leatherback 
 Bearded Dragon will have a very smooth back (lacking rigid scales). Furthermore, a dunner 
 Bearded Dragon will have scales that point in different directions (lacking symmetry) while 
-a silkback Bearded Dragon will lack scales completely (extremely soft skin).
+a silkback Bearded Dragon will lack scales completely (extremely soft skin).</p>
 
-## Colors
+<h2 id="colors">Colors</h2>
 
 <ul>
     <li>Yellow.</li>
@@ -97,21 +92,22 @@ a silkback Bearded Dragon will lack scales completely (extremely soft skin).
     <li>Mixed.</li>
 </ul>
 
-A wild Bearded Dragon may have basic colors such as tan, yellow, or shades of green. Although, 
-Bearded Dragons in the pet industry have been bred to feature "eye-catching" colors that really 
+<p>A wild Bearded Dragon may have basic colors such as tan, yellow, or shades of green. Although, 
+Bearded Dragons in the pet industry have been bred to feature “eye-catching” colors that really 
 standout. For example, some Bearded Dragon morphs may be completely red, yellow, 
 or even white. In addition, some Bearded Dragons may have a variety of colors on their body such 
-as orange and red together. Overall, there's a lot of options as far as color goes when it comes 
-to captive Bearded Dragons.
+as orange and red together. Overall, there’s a lot of options as far as color goes when it comes 
+to captive Bearded Dragons.</p>
 
-## Other Traits
+<h2 id="other-traits">Other Traits</h2>
 
 <ul>
     <li>Hypomelanistic.</li>
     <li>Translucent.</li>
 </ul>
 
-Some Bearded Dragon morphs may have specific traits. For instance, a hypomelanistic Bearded 
+<p>Some Bearded Dragon morphs may have specific traits. For instance, a hypomelanistic Bearded 
 Dragon (or hypo for short) is a Bearded Dragon with clear white nails rather than black nails. Also, 
 a hypo Bearded Dragon will often be lighter in color rather than darker. Moving on, a translucent 
-Bearded Dragon will have solid black eyes and transparent/translucent skin.
+Bearded Dragon will have solid black eyes and transparent/translucent skin.</p>
+:ET
