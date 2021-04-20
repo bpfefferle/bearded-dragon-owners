@@ -19,7 +19,7 @@ tags: [bearded dragon, pogona vitticeps, why your bearded dragon isn't basking, 
 ## #1. Incorrect Basking Temperature
 
 A Bearded Dragon's basking spot should range from 95F to 110F. If your Bearded Dragon's 
-basking spot is too cold, then the reptile will have no reasons to use the basking spot. 
+basking spot is too cold, then the reptile will have no reason to use the basking spot. 
 In addition, if the basking spot is too hot, then your Bearded Dragon may be uncomfortable 
 with laying on the basking spot. Overall, be sure to double-check that your Bearded Dragon's 
 basking spot is in the ideal range.
@@ -38,7 +38,7 @@ it is best to eliminate any situations that may be causing stress.
 - Not basking.
 - Not eating.
 - Aggresive behavior.
-- Hiding, fleeing, or sleeping.
+- Hiding or fleeing.
 
 **Things that may cause stress.**
 
@@ -57,8 +57,7 @@ Brumation is a Bearded Dragon's version of hybernation. Often, it is adult Beard
 Dragons that decide to brumate (not juvenile or baby Bearded Dragons). When a Bearded 
 Dragon decides to brumate, it will become less active and it will sleep more often. Overall, 
 brumation is a natural behavior. However, always check for signs of illnesses and ensure a proper 
-enclosure setup and care before assuming a Bearded Dragon is brumating. Unfortunately, many new 
-owners fall into the trap thinking that their reptile is brumating when it is actually ill or 
+enclosure setup (along with proper care methods) before assuming a Bearded Dragon is brumating. Unfortunately, many new owners fall into the trap thinking that their reptile is brumating when it is actually ill or 
 depressed.
 
 
