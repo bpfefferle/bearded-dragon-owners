@@ -27,7 +27,7 @@ will appear lethargic. If you suspect your Bearded Dragon to be brumating, then 
 
 ## #1) Check For Illnesses
 
-Unfortunately, some people may make the mistake of 
+Unfortunately, some people make the mistake of 
 assuming their Bearded Dragon is brumating when the reptile is actually ill. In other words, acting lethargic 
 and not eating (weight loss) could also be symptoms of an illness. Therefore, you should always make sure your Bearded Dragon is not sick before assuming it is going through a brumation period. Overall, we recommend a vet visit if you're unsure. Also, read our page about <a href="http://www.beardeddragonowners.com/bearded-dragon-health.html" target="_blank">health</a>.
 
@@ -38,11 +38,8 @@ setup, then it may simply choose to brumate. For example, if your Bearded Dragon
 
 ## 3) Maintain Your Routine
 
-How long a Bearded Dragon will brumate depends on that individual Bearded Dragon. In other words, some may brumate for a week while others may do it for several weeks. In the meantime, the reptile could wake up temporarily. For this reason, we suggest that you maintain your routine in regards to caring for the reptile. To clarify, leave your Bearded Dragon's lights on their normal schedule (do not turn them off completely) and continue to offer fresh vegetables daily in case your reptile decides to wake up in that moment for a snack.
+How long a Bearded Dragon will brumate depends on that individual Bearded Dragon. In other words, some may brumate for a week while others may do it for several weeks. In the meantime, the reptile could wake up temporarily. For this reason, we suggest that you maintain your routine in regards to caring for the reptile. To clarify, leave your Bearded Dragon's lights on their normal schedule (do not turn them off completely) and continue to offer fresh vegetables daily in case your reptile decides to wake up for a snack.
 
 ## 4) Do Not Distrub
 
-If your Bearded Dragon has already begun the brumation process, then it is best to leave the reptile be and stick 
-to your routine regarding care (read #3). Overall, there 
-is not a good reason to wake up a Bearded Dragon that is 
-brumating unless the reptile is noticebly ill (read #1). In the end, do not force the reptile to wake.
+If your Bearded Dragon has already begun the brumation process, then it is best to leave the reptile be and stick to your routine regarding care (read #3); there is not a good reason to wake up a Bearded Dragon that is brumating unless the reptile is noticeably ill (read #1). While captive Bearded Dragons may instinctively brumate, the best way to prevent brumation is by having the correct temperature gradient and diet for your reptile. Basically, avoid exposing them to winter like conditions (low temps and lack of food). However, once again, if your reptile decides to brumate regardless, then do not force the reptile to wake unless it is noticeably ill.
