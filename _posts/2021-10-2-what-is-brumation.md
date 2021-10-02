@@ -16,7 +16,7 @@ tags: [bearded dragon, pogona vitticeps, why your bearded dragon isn't basking, 
 
 ## What is Brumation
 
-Brumation is a Bearded Dragon's version of hibernation (a period of dormancy). In the wild, Bearded Dragons will begin brumation to survive colder temperatures and lack of food. Of course, brumation often occurs during winter season. In captivity, not all Bearded Dragons will go through brumation nor is it necessary considering Bearded Dragon owners control their temperatures and diet all year round. Regardless, it is still possible for captive bearded dragons to brumate (adult Bearded Dragons that is).
+Brumation is a Bearded Dragon's version of hibernation (a period of dormancy). In the wild, Bearded Dragons will begin brumation to survive colder temps and lack of food. Of course, brumation often occurs during winter season. In captivity, not all Bearded Dragons will go through brumation nor is it necessary considering Bearded Dragon owners control their temperatures and diet all year round. Regardless, it is still possible for captive bearded dragons to brumate (adult Bearded Dragons that is).
 
 ## Brumation Symptoms
 
