@@ -12,8 +12,7 @@ tags: [bearded dragon, pogona vitticeps, why your bearded dragon isn't basking, 
 # {{page.title}}
 {{page.image}}
 
-<!-- fb share button large -->
-
+<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2021/10/21/what-is-brumation.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2021%2F10%2F21%2Fwhat-is-brumation.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## What is Brumation
 
