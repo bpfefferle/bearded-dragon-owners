@@ -4,9 +4,6 @@ title: Bearded Dragon Owners Blog
 ---
 
 <!-- Blog Feed -->
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases.</p>
-</div>
 <h1>{{page.title}}</h1>
 <div class="blog-feed">
     {% for post in site.posts %}
