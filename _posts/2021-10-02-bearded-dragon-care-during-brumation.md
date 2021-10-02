@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Bearded Dragon Care During Brumation
-image: <img class="post-img" src="/assets/img/blog/bearded-dragon-care-during-brumation.jpg" alt="Picture of a Bearded Dragon.">
+image: <img class="post-img" src="/assets/img/blog/brumation.jpg" alt="Picture of a Bearded Dragon.">
 description: What is brumation and how to take care of a Bearded Dragon during brumation.
 author: Brent Pfefferle
 tags: [bearded dragon, pogona vitticeps, bearded dragon brumation, bearded dragon brumation care, brumation]
