@@ -4,10 +4,6 @@ title: Common Bearded Dragon Behaviors
 description: An introduction to common Bearded Dragon behaviors.
 ---
 
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases.</p>
-</div>
-
 <h1>{{page.title}}</h1>
 
 Bearded Dragons exhibit several types of behaviors 

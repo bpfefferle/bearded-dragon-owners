@@ -4,10 +4,6 @@ title: "Types of Bearded Dragons"
 description: An introduction to Bearded Dragon species and morphs.
 ---
 
-<!-- Bearded Dragon Morphs-->
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases.</p>
-</div>
 <h1>{{page.title}}</h1>
 
 ## Species

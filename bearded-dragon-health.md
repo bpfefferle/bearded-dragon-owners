@@ -4,10 +4,6 @@ title: "Bearded Dragon Health"
 description: An introduction to common Bearded Dragon health issues.
 ---
 
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases.</p>
-</div>
-
 # {{ page.title }}
 
 It may not always be easy to tell if your Bearded 

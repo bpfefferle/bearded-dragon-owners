@@ -4,10 +4,6 @@ title: About Bearded Dragon Owners
 description: How Bearded Dragon Owners came to be.
 ---
 
-<div class="amazon-disclosure">
-    <p>As an Amazon associate, I earn from qualifying purchases.</p>
-</div>
-
 <h1>{{page.title}}</h1>
 
 <div>
