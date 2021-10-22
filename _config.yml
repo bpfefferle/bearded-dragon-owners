@@ -1,2 +1,8 @@
 title: Bearded Dragon Owners
 excerpt_separator: <!--Show More-->
+paginate: 3
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate

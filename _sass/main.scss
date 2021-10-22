@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6, li, input, textarea, p, .google-ad{margin: 20px 0px;}
 ul, ol{list-style-position: inside; list-style-type: square;}
 
 // FONT.
-html, body{height: 100%;}
+html, body{font-size: 16px; height: 100%;}
+body, input, textarea, button{font-family: $mainFont; line-height: 1.7;}
+h1, h2, h3, h4, h5, h6{font-family: $headingFont; font-size: 1.5rem;}
 .site-title, .nav-main-ul, footer{font-family: $mainFont; font-size: 1.1rem;}
 .social-media{font-size: 2rem;}
-h1, h2, h3, h4, h5, h6{font-family: $headingFont; font-size: 1.5rem;}
-body, input, textarea, button{font-size: 16px; font-family: $mainFont; line-height: 1.7;}
 
 // COLOR.
 body{
@@ -408,6 +408,24 @@ footer p{
   padding: 0px 20px;
 }
 
+.pagination{
+  .page{
+    display: flex;
+    justify-content: center;
+  }
+  .prev, .index, .next{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 5px;
+    margin: 0px 5px;
+    width: 100%;
+  }
+  .cta-link{
+    width: 100%;
+  }
+}
+
 // Morphs.
 .table{
   width: 100%;
@@ -429,8 +447,6 @@ footer p{
 
 .list-of-male-names ul li, .list-of-female-names ul li{
   padding: 0.5rem 0rem;
-  // background: $color2;
-  // color: $color3;
   text-align: center;
 }
 
