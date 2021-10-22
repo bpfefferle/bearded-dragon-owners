@@ -311,6 +311,30 @@ footer a{
   }
 }
 
+// Mobile 356px or less
+@media only screen and (max-width: 356px){
+  html, body, h1, h2, h3, h4, h5, h6{
+    font-size: 13px;
+  }
+  .pagination{
+    display: block;
+    width: 100%;
+    .page{
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+      .prev, .index, .next{
+        margin: 0px 5px;
+        padding: 0px 5px;
+        .cta-link{
+          margin: 5px 5px;
+          padding: 5px 5px;
+        }
+      }
+    }
+  }
+}
+
 // Footer.
 footer{
   display: flex;
