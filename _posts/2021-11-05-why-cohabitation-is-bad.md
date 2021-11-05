@@ -27,7 +27,7 @@ are fighting.
 
 ## #2) Mental Stress
 
-It is important to mention that fighting does not always occur. Although, fighting 
+It is important to mention that fighting does not always occur. Actually, fighting 
 is not the only concern with cohabitation. To elaborate, if one Bearded Dragon sees 
 another Bearded Dragon, then either reptile may become stressed out. Of course, 
 stress itself will cause your Bearded Dragon to not behave normally. For example, your 
