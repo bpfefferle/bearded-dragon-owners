@@ -2,7 +2,7 @@
 layout: blog
 title: Why Your Bearded Dragon Isn't Basking
 image: <img class="post-img" src="/assets/img/blog/why-your-bearded-dragon-isn't-basking.jpg" alt="Picture of a Bearded Dragon.">
-description: Reasons for a Bearded Dragon refusing to bask.
+description: Here are some reasons your Bearded Dragon is refusing to bask.
 author: Brent Pfefferle
 ---
 

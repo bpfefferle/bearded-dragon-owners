@@ -2,7 +2,7 @@
 layout: blog
 title: Bearded Dragon Care During Brumation
 image: <img class="post-img" src="/assets/img/blog/bd-brumation.jpg" alt="Picture of a Bearded Dragon.">
-description: What is brumation and how to take care of a Bearded Dragon during brumation.
+description: What should you do if your Bearded Dragon is brumating?
 author: Brent Pfefferle
 ---
 
