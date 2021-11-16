@@ -40,7 +40,7 @@ body a:hover { color: #2a2b2a; }
 
 footer a { color: #fffffa; }
 
-.amazon-disclosure { margin: 20px 0px; padding: 0px 20px; border: 1px dashed #2a2b2a; }
+.google-ad { display: block; }
 
 @media only screen and (max-width: 800px) { .bottom-bar .nav-main-ul a:hover { background: none; } }
 
