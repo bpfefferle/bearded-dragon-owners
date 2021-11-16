@@ -40,7 +40,7 @@ body a:hover { color: #2a2b2a; }
 
 footer a { color: #fffffa; }
 
-.google-ad { display: block; }
+.google-ad { display: flex; justify-content: center; align-items: center; }
 
 @media only screen and (max-width: 800px) { .bottom-bar .nav-main-ul a:hover { background: none; } }
 

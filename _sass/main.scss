@@ -74,10 +74,12 @@ footer a{
 }
 
 // ADVERTISEMENTS.
-
 .google-ad
 {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  //background-color: red;
 }
 
 // Mobile nav color.
