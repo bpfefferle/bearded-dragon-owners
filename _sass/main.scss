@@ -346,12 +346,8 @@ footer p{
 }
 
 .merch-grid{
-  //  display: grid;
-  //  grid-template-columns: repeat(1, 1fr);
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
 }
 
 .merch-grid img{
@@ -375,6 +371,11 @@ footer p{
   text-align: center;
   text-transform: uppercase;
   font-weight: 900;
+}
+
+.side-bar
+{
+  background: $color3;
 }
 
 // About.
