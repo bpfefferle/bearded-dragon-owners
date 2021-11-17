@@ -96,7 +96,7 @@ footer p { margin: 5px; }
 
 .recent-posts a { text-decoration: none; }
 
-.merch-grid { display: flex; flex-direction: column; justify-content: center; }
+.merch-grid { display: grid; grid-template-columns: repeat(1, 1fr); }
 
 .merch-grid img { width: 100%; border-radius: 10px; }
 
@@ -105,6 +105,8 @@ footer p { margin: 5px; }
 .merch-thumbnail:hover { transform: scale(1.1); z-index: 1; }
 
 .ad-space { border: 2px dashed #0d5c63; padding: 10px; text-align: center; text-transform: uppercase; font-weight: 900; }
+
+.side-bar { background: #fffffa; }
 
 .picture-grid { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 0px; padding: 10px 0px; }
 
