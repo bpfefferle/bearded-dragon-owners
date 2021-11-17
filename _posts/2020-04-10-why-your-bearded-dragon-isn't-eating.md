@@ -13,7 +13,7 @@ author: Brent Pfefferle
 
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/10/why-your-bearded-dragon-isn&#039;t-eating.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F10%2Fwhy-your-bearded-dragon-isn%27t-eating.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
-## #1. Improper Lighting
+## 1) Improper Lighting
 
 It is crucial that a Bearded Dragon's enclosure has a correct temperature 
 gradient along with proper UVB exposure. To clarify, the hot side of the 
@@ -24,23 +24,7 @@ enclosure's length. Overall, if a Bearded Dragon does not have the correct
 heat temperature or vitamin D3 (obtained from UVB), then its body will not 
 function properly which could lead to an unhappy reptile.
 
-<!-- Amazon native ad -->
-<p>As an Amazon Associate I earn from qualifying purchases.</p>
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-amzn_assoc_asins = "B00AQU8HAO,B00AQU8F2O,B0006L2UBU,B0002DHODG,B07H3YJB96";
-amzn_assoc_search_bar = "true";
-amzn_assoc_title = "Shop Bulbs and Fixtures on Amazon";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-## #2. Stress
+## 2) Stress
 
 If a Bearded Dragon is stressed, then it may not eat. Unfortunately, Bearded 
 Dragons can stress easily for various reasons. For example, a Bearded Dragon 
@@ -50,7 +34,7 @@ out from shedding or being mishandled. Ultimately, if you suspect that
 your Bearded Dragon is stressed out, then you'll have to identify what 
 may be causing stress and eliminate it from the equation.
 
-## #3. An Illness
+## 3) An Illness
 
 For obvious reasons, if a Bearded Dragon is sick or becoming severely 
 ill, then it may not be interested in eating or it may be uncapable 
@@ -60,7 +44,7 @@ your Bearded Dragon is ill, then it is best to rush to a herp vet
 as soon as possible. Visit our <a href="/bearded-dragon-health.html" target="_blank">health page</a> 
 for more information regarding health.
 
-## #4. Brumation
+## 4) Brumation
 
 In the wild, a Bearded Dragon will brumate during winter when temperatures 
 are low and food is scarce. Brumation is a Bearded Dragon's version of 
@@ -70,7 +54,7 @@ is still possible for a Bearded Dragon to brumate based off of pure instincts.
 If this is the case, then a Bearded Dragon will stop eating in general as 
 it goes through its brumation period (sleep and less activity).
 
-## #5. Picky Eaters
+## 5) Picky Eaters
 
 Bearded Dragons can be picky eaters. One week, a Bearded Dragon might love 
 to eat crickets, but then have no interest in them the next week. In this 
@@ -80,19 +64,3 @@ so on. If a Bearded Dragon continues to show no interest, then consider
 if the Bearded Dragon is mentally and physically healthy and has the 
 correct enclosure setup. Again, a Bearded Dragon may not eat if it is 
 not mentally or physically healthy and has an improper enclosure setup.
-
-<!-- Amazon native ad -->
-<p>As an Amazon Associate I earn from qualifying purchases.</p>
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "beardeddragonownerswebsite-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "d22726afbe82757206628ac253042fa8";
-amzn_assoc_asins = "B00DXLRHVS,B008D95M30,B008PL677G,B00T24MJQ8,B0160BEKAI";
-amzn_assoc_search_bar = "true";
-amzn_assoc_title = "Shop Live Food on Amazon";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

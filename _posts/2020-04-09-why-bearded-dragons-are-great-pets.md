@@ -15,7 +15,7 @@ author: Brent Pfefferle
 <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/09/why-bearded-dragons-are-great-pets.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F09%2Fwhy-bearded-dragons-are-great-pets.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 
-## #1. They're Docile
+## 1) They're Docile
 
 Bearded Dragons are considered to be friendly reptiles, a Bearded 
 Dragon will only bite if it feels threatened. If you properly 
@@ -25,7 +25,7 @@ the reptile will have no issue with being handled. Overall, since
 Bearded Dragons are friendly, they can be good pets for kids, 
 teenagers, or adults.
 
-## #2. They're Diurnal
+## 2) They're Diurnal
 
 Bearded Dragons are diurnal, this means that they are active 
 during the day and sleep during the night. For obvious reasons, 
@@ -33,7 +33,7 @@ having a pet available to interact with during the day is ideal
 since humans are also diurnal (well, at least most of us are). In 
 short, if you're looking for a daytime reptile, then look no further!
 
-## #3. They Have a Long Lifespan
+## 3) They Have a Long Lifespan
 
 If kept physically and mentally healthy, a captive Bearded Dragon can 
 live longer than 10 years. Of course, having a pet for that long can 
@@ -43,7 +43,7 @@ managing an entire community about Bearded Dragons. My Bearded Dragons
 have already done so much for me. In summary, having a pet Bearded 
 Dragon can be a long-term commitment that is rewarding in many ways.
 
-## #4. They're Affordable
+## 4) They're Affordable
 
 Most pet stores will sell young (normal) Bearded Dragons for $60 or less. If a 
 Bearded Dragon is an adult or a rare type of morph, then it could cost 
@@ -64,7 +64,7 @@ would be buying its food (along with the occasional vet checkup). However, you
 can save money on food buy ordering in bulk online rather than getting it from your 
 local pet store.
 
-## #5. They're Easy to Take Care Of
+## 5) They're Easy to Take Care Of
 
 After doing research and getting a proper Bearded Dragon enclosure setup, 
 the main duties of Bearded Dragon care involve feeding the reptile and cleaning 
@@ -75,7 +75,7 @@ do much in general. That is, unless you take them out to explore and interact wi
 them. Ultimately, Bearded Dragons don't require much work outside of making sure they 
 have the proper enclosure setup, are well-fed, and kept clean.
 
-## #6. They're Small
+## 6). They're Small
 
 Bearded Dragons grow to a max-length around 2ft. Compared to some other reptiles 
 out there (such as an Iguana that grows up to 7 feet long), this is pretty nice size. 
@@ -84,7 +84,7 @@ tank (36"W x 18"D x 12"H). In other words, a Bearded Dragon's enclosure will onl
 3 feet of space assuming you house it in the minimum size that we would recommend (a 40 gallon 
 terrarium).
 
-## #7. They Look and Sound Awesome
+## 7) They Look and Sound Awesome
 
 I always enjoy telling non-reptile owners that I have a Bearded Dragon and watching their facial expression 
 as if I really have a dragon with a beard. Not only that, but I also enjoy showing them cool pictures of 
@@ -93,7 +93,7 @@ Bearded Dragons are just adorable and derpy little reptiles but most people don'
 in my fantasy world of taming dragons. All things considered, it's pretty cool to have a Bearded Dragon and 
 explain what they are to people that aren't familiar with them.
 
-## #8. They Don't Need Friends
+## 8) They Don't Need Friends
 
 Unlike some pets, Bearded Dragons don't get lonely. In fact, Bearded Dragons are territorial with 
 each other. As a result, Bearded Dragons actually prefer to live in solitude and they don't want 

@@ -2,7 +2,7 @@
 layout: blog
 title: Bearded Dragon Care During Brumation
 image: <img class="post-img" src="/assets/img/blog/bd-brumation.jpg" alt="Picture of a Bearded Dragon.">
-description: What should you do if your Bearded Dragon is brumating?
+description: What to do if your Bearded Dragon is brumating.
 author: Brent Pfefferle
 ---
 
@@ -24,13 +24,13 @@ become less active, may be seen sleeping more often than
 usual, and may be eating less. Overall, the Bearded Dragon 
 will appear lethargic. If you suspect your Bearded Dragon to be brumating, then there are a few things that you should do.
 
-## #1) Check For Illnesses
+## 1) Check For Illnesses
 
 Unfortunately, some people make the mistake of 
 assuming their Bearded Dragon is brumating when the reptile is actually ill. In other words, acting lethargic 
 and not eating (weight loss) could also be symptoms of an illness. Therefore, you should always make sure your Bearded Dragon is not sick before assuming it is going through a brumation period. Overall, we recommend a vet visit if you're unsure. Also, read our page about <a href="http://www.beardeddragonowners.com/bearded-dragon-health.html" target="_blank">health</a>.
 
-## #2) Check the Habitat
+## 2) Check the Habitat
 
 If your Bearded Dragon does not have the correct habitat 
 setup, then it may simply choose to brumate. For example, if your Bearded Dragon's basking temperature is too cold, then the reptile will have no reason to bask and may choose to brumate instead. Again, brumation is a Bearded Dragon's method to survive poor conditions in its environement. Thus, ensure that your Bearded Dragon's lighting is correct (UVB exposure as well as the temperature gradient).

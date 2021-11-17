@@ -346,8 +346,12 @@ footer p{
 }
 
 .merch-grid{
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
+  //  display: grid;
+  //  grid-template-columns: repeat(1, 1fr);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .merch-grid img{

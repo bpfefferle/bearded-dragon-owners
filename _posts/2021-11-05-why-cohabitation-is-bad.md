@@ -13,7 +13,7 @@ author: Brent Pfefferle
 
 <div class="fb-share-button" data-href="https://beardeddragonowners.com/2021/11/05/why-cohabitation-is-bad.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2021%2F11%2F05%2Fwhy-cohabitation-is-bad.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
-## #1) Bad Temperament
+## 1) Bad Temperament
 
 In the wild, Bearded Dragons are territorial. For example, if two male Bearded 
 Dragons spot each other, chances are high that they will fight in attempt to 
@@ -25,7 +25,7 @@ of going near each other. Keep in mind, Bearded Dragons can have mood changes ex
 fast. At one moment, everything may seem fine. Before you know it, your Bearded Dragons 
 are fighting. 
 
-## #2) Mental Stress
+## 2) Mental Stress
 
 It is important to mention that fighting does not always occur. Actually, fighting 
 is not the only concern with cohabitation. To elaborate, if one Bearded Dragon sees 
@@ -35,7 +35,7 @@ reptile may try to escape its enclosure (this is known as glass surfing) or your
 lizard may simply stop eating. In the end, Bearded Dragons are very fragile mentally 
 and stressful situations should be avoided as much as possible.
 
-## #3) Lack of Resources
+## 3) Lack of Resources
 
 Bearded Dragons can grow up to 24 inches long. As a result, two Bearded Dragons should not 
 be forced to live in a the same tank with each other for a few reasons. For starters, 
@@ -48,7 +48,7 @@ and UVB bulb. At the same time, they may also be competing for other resources s
 catching food. In summary, it would be best to not have Bearded Dragons compete with one 
 another. Chances are, the dominant Bearded Dragon will overpower the weaker one.
 
-## #4) Unwanted Vet Bills
+## 4) Unwanted Vet Bills
 
 Considering the fact that Bearded Dragons are territorial, there is a high possibility 
 that they may harm each other (by fighting) which may result in serious injury or death. 
@@ -56,7 +56,7 @@ For obvious reasons, if a Bearded Dragon is seriously harmed in a fight, then yo
 to go to a vet for treatment. Thus, you may encounter unwanted vet bills or worse (not 
 being able to save your Bearded Dragon). In conclusion, it's better to be safe than sorry.
 
-## #5) Potential Offspring
+## 5) Potential Offspring
 
 Yet again, if a male Bearded Dragon is paired with a female Bearded Dragon, then it is 
 highly likely that the male will mate with the female Bearded Dragon once the two are 
