@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: What to Name Your Bearded Dragon
+title: Bearded Dragon Name Generator
 image: <img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
-description: For name ideas, try our name generator!
+description: Getting a Bearded Dragon soon? Try our name generator.
 author: Brent Pfefferle
 ---
 
@@ -11,7 +11,7 @@ author: Brent Pfefferle
 # {{page.title}}
 {{page.image}}
 
-<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/28/what-to-name-your-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F28%2Fwhat-to-name-your-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<div class="fb-share-button" data-href="https://beardeddragonowners.com/2020/04/28/bearded-dragon-name-generator.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2020%2F04%2F28%2Fbearded-dragon-name-generator.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 To generate more names, click on the button that says "Get More Names". 
 
