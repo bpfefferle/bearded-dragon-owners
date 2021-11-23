@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Bearded Dragon Care During Brumation
 image: <img class="post-img" src="/assets/img/blog/bd-brumation.jpg" alt="Picture of a Bearded Dragon.">
 description: What to do if your Bearded Dragon is brumating.

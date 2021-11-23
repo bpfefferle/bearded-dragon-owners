@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Training Your Bearded Dragon to Eat Vegetables 
 image: <img class="post-img" src="/assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.jpg" alt="Picture of a Bearded Dragon.">
 description: Tips to get your Bearded Dragon interested in vegetables.

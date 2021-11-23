@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Bearded Dragon Name Generator
 image: <img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
 description: Getting a Bearded Dragon soon? Try our name generator.

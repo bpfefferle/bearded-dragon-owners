@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Why Cohabitation is Bad
 image: <img class="post-img" src="/assets/img/blog/why-cohabitation-is-bad.jpg" alt="Picture of a Bearded Dragon.">
 description: No, you should not get your Bearded Dragon a friend.

@@ -9,18 +9,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Facebook -->
     <meta property="og:url" content="{{page.url}}" />
-    <meta property="og:type" content="Blog" />
+    <meta property="og:type" content="Article" />
     <meta property="og:title" content="{{page.title}}" />
     <meta property="og:description" content="{{page.description}}" />
-    <meta property="og:image" content="/assets/img/default-og-img.jpg" />
     <!-- Page title -->
     <title>{{ page.title }} - {{ site.title }}</title>
     <!-- CSS reset -->
     <link rel="stylesheet" href="/assets/css/reset.css">
     <!-- Main CSS -->
     <link rel="stylesheet" href="/assets/css/main.css">
-    <!-- Google font -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:700|Roboto:300&display=swap" rel="stylesheet"> 
+     <!-- Google font -->
+     <link href="https://fonts.googleapis.com/css?family=Poppins:700|Roboto:300&display=swap" rel="stylesheet"> 
     <!-- Line awesome --> 
     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -47,7 +46,7 @@
       <!-- Main content -->
       {% include main-content.html %}
       <!-- Right content -->
-      {% include right-content.html %}
+      {% include alternate-right-content.html %}
       <!-- Footer -->
       {% include footer.html %}
     </div>

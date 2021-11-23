@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: How to Hydrate a Bearded Dragon
 image: <img class="post-img" src="/assets/img/blog/how-to-hydrate-a-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
 description: A few tips for keeping your Bearded Dragon hydrated.

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: How to Breed Dubia Roaches
 image: <img class="post-img" src="/assets/img/blog/how-to-breed-dubia-roaches.JPG" alt="Picture of a Dubia roach.">
 description: Getting started with the basics of Dubia roach breeding.
