@@ -75,7 +75,7 @@ do much in general. That is, unless you take them out to explore and interact wi
 them. Ultimately, Bearded Dragons don't require much work outside of making sure they 
 have the proper enclosure setup, are well-fed, and kept clean.
 
-## 6). They're Small
+## 6) They're Small
 
 Bearded Dragons grow to a max-length around 2ft. Compared to some other reptiles 
 out there (such as an Iguana that grows up to 7 feet long), this is pretty nice size. 
