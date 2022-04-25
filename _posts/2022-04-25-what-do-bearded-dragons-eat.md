@@ -20,7 +20,7 @@ and animal origin. In summary, it is important that a
 Bearded Dragon's diet has variety and is not restricted to 
 any one type of food. This post is a basic introduction to what 
 Bearded Dragons eat. For more information on food supplementation, 
-gut-loading, or food scheduling, read our care guide <a href="https://beardeddragonowners.com/" target="_blank">here</a>.
+gut-loading, or food scheduling, read our care guide <a href="https://beardeddragonowners.com/bearded-dragon-care-guide.html" target="_blank">here</a>.
 
 ## 1) Live Food
 
