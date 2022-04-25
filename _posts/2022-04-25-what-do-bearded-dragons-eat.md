@@ -13,14 +13,14 @@ author: Brent Pfefferle
 
 <div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/04/23/what-do-bearded-dragons-eat.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F04%2F23%2Fwhat-do-bearded-dragons-eat.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
-## 1) Omnivores
+## Omnivores
 
 Bearded Dragons are omnivores, they eat food of both plant 
 and animal origin. In summary, it is important that a 
 Bearded Dragon's diet has variety and is not restricted to 
 any one type of food.
 
-## 2) Live Food
+## 1) Live Food
 
 At a young age, Bearded Dragons will rely more on live 
 food to thrive. Dubia roaches would be a great choice 
@@ -40,7 +40,7 @@ other options exist as well as seen below.
 - Mealworms (Digestion risk).
 - Hornworms (Mostly moisture).
 
-## 3) Vegetables & Fruits
+## 2) Vegetables & Fruits
 
 As Bearded Dragons get older, they may show more 
 interest in vegetables. However, it's advised to 
@@ -84,7 +84,7 @@ fruits not listed here, additional research recommended.
 - Blackberries
 - Strawberries
 
-## 4) Supplements
+## 3) Supplements
 
 It's crucial to note that Bearded Dragons 
 do not get everything they need from the bugs we often 
@@ -96,7 +96,7 @@ we recommend using calcium and multivitamin supplements alongside
 your Bearded Dragon's diet. For more information on food 
 supplementation, read our care guide <a href="https://beardeddragonowners.com/bearded-dragon-care-guide.html" target="_blank">here</a>.
 
-## 5) Gut-loading
+## 4) Gut-loading
 
 You may be suprised to hear this, but properly taking care 
 of your reptile's live food (whether it be roaches or crickets) 
@@ -109,7 +109,7 @@ how to proplery house and care for the live food of your choice.
 To help you start things of, read our blog post about breeding 
 dubia roaches <a href="https://beardeddragonowners.com/2021/11/17/how-to-breed-dubia-roaches.html" target="_blank">here</a>.
 
-## 6) Feeding Schedule
+## 5) Feeding Schedule
 
 It's recommended to have a proper feeding schedule 
 for a pet Bearded Dragon. For baby and juvenile 
@@ -122,7 +122,7 @@ will eat less in general but offering food 2-3 times
 per day is a general guideline to follow if not 1-2 times 
 per day for adult Bearded Dragons.
 
-## 7) Dangerous Foods
+## 6) Dangerous Foods
 
 A pet Bearded Dragon should never be offered 
 food from outside. In other words, never offer 
