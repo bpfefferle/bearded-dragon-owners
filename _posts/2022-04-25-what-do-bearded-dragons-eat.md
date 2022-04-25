@@ -27,13 +27,13 @@ food to thrive. Dubia roaches would be a great choice
 for an everday staple feeder for your reptile. Though, 
 other options exist as well as seen below.
 
-###### Daily Choices:
+**Daily Choices:**
 - Dubia roaches (dusting recommended).
 - Crickets (dusting recommended).
 - Phoenix worms.
 - Silkworms.
 
-###### Treats Only:
+**Treats Only:**
 - Butterworms (fattening).
 - Waxworms (fattening).
 - Superworms (fattening).
@@ -47,7 +47,7 @@ interest in vegetables. However, it's advised to
 make a habit of offering both live food and vegetables 
 at a young age. Again, a diet full of variety is key.
 
-###### Suggested Greens & Veggies:
+**Suggested Greens & Veggies:**
 
 - Mustard greens.
 - Dandelion greens.
@@ -58,7 +58,7 @@ at a young age. Again, a diet full of variety is key.
 - Butternut Squash
 - Acorn Squash
 
-###### Greens & Veggies to Avoid:
+**Greens & Veggies to Avoid:**
 
 Not all veggies are safe or nutritional for Bearded Dragons. If 
 you are ever unsure if a Bearded Dragon can eat something, then 
@@ -71,7 +71,7 @@ here is a brief list of vegetables to avoid.
 - Rhubarb (toxic).
 - Avocado (toxic).
 
-###### Fruits as Treats:
+**Fruits as Treats:**
 
 There is not much to say about fruits, besides the fact 
 that they should be offered as treats only. Below, is a 
