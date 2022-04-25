@@ -75,16 +75,14 @@ here is a brief list of vegetables to avoid.
 
 There is not much to say about fruits, besides the fact 
 that they should be offered as treats only. Below, is a 
-small list of fruits. Again, as treats only.
+small list of fruits. Again, as treats only. For other 
+fruits not listed here, additional research recommended.
 
 - Apples
 - Bananas
 - Blueberries
 - Blackberries
 - Strawberries
-
-Remember, not all veggies or fruits are safe or nutritional. 
-For example, citrus fruits should be avoided for Bearded Dragons.
 
 ## 4) Supplements
 
