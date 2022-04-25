@@ -47,7 +47,7 @@ interest in vegetables. However, it's advised to
 make a habit of offering both live food and vegetables 
 at a young age. Again, a diet full of variety is key.
 
-**Suggested Greens & Veggies:**
+**Suggested Veggies:**
 
 - Mustard greens.
 - Dandelion greens.
@@ -58,7 +58,7 @@ at a young age. Again, a diet full of variety is key.
 - Butternut Squash
 - Acorn Squash
 
-**Greens & Veggies to Avoid:**
+**Veggies to Avoid:**
 
 Not all veggies are safe or nutritional for Bearded Dragons. If 
 you are ever unsure if a Bearded Dragon can eat something, then 
