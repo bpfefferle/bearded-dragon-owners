@@ -11,7 +11,7 @@ author: Brent Pfefferle
 # {{page.title}}
 {{page.image}}
 
-<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/10/why-your-bearded-dragon-isn&#039;t-eating.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F10%2Fwhy-your-bearded-dragon-isn%27t-eating.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+<div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/04/23/what-do-bearded-dragons-eat.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F04%2F23%2Fwhat-do-bearded-dragons-eat.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## 1) Omnivores
 
@@ -25,20 +25,18 @@ any one type of food.
 At a young age, Bearded Dragons will rely more on live 
 food to thrive. Dubia roaches would be a great choice 
 for an everday staple feeder for your reptile. Though, 
-other options exist as well like crickets, phoenix 
-worms, or silkworms. For clarification on dusting, scroll 
-down to the food supplementation section.
+other options exist as well as seen below.
 
 ###### Daily Choices:
-- Dubia roaches (dusted).
-- Crickets (dusted).
+- Dubia roaches (dusting recommended).
+- Crickets (dusting recommended).
 - Phoenix worms.
 - Silkworms.
 
 ###### Treats Only:
 - Butterworms (fattening).
 - Waxworms (fattening).
-- Superworms (Digestion risk).
+- Superworms (fattening).
 - Mealworms (Digestion risk).
 - Hornworms (Mostly moisture).
 
@@ -62,7 +60,7 @@ at a young age. Again, a diet full of variety is key.
 
 ###### Greens & Veggies to Avoid:
 
-Not all veggeis are safe or nutritional for Bearded Dragons. If 
+Not all veggies are safe or nutritional for Bearded Dragons. If 
 you are ever unsure if a Bearded Dragon can eat something, then 
 please Google it first or simply do not attempt it. In the meantime, 
 here is a brief list of vegetables to avoid.
@@ -75,7 +73,9 @@ here is a brief list of vegetables to avoid.
 
 ###### Fruits as Treats:
 
-Fruits should be offered as treats only.
+There is not much to say about fruits, besides the fact 
+that they should be offered as treats only. Below, is a 
+small list of fruits. Again, as treats only.
 
 - Apples
 - Bananas
@@ -83,8 +83,8 @@ Fruits should be offered as treats only.
 - Blackberries
 - Strawberries
 
-For a more detailed list on nutrition, 
-please visit this <a href="http://www.beautifuldragons.com/Nutrition.html" target="_blank">website.</a>
+Remember, not all veggies or fruits are safe or nutritional. 
+For example, citrus fruits should be avoided for Bearded Dragons.
 
 ## 4) Supplements
 
