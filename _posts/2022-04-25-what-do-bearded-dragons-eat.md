@@ -40,7 +40,7 @@ other options exist as well as seen below.
 - Mealworms (Digestion risk).
 - Hornworms (Mostly moisture).
 
-## 3) Vegetables & Fruits
+## 3) Vegetables
 
 As Bearded Dragons get older, they may show more 
 interest in vegetables. However, it's advised to 
