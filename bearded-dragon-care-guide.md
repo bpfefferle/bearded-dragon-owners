@@ -84,7 +84,7 @@ description: How to take care of a Bearded Dragon.
         <h2>Diet</h2>
             <ul>
                 <li>Bearded Dragons are omnivores and require live food and vegetables in their diet. Occasionally, 
-                they can have fruits as treats. Overall, a Bearded Dragon's diet require variety and these reptiles 
+                they can have fruits as treats. Overall, a Bearded Dragon's diet should have variety and these reptiles 
                 should be fed 2-3 times per day (especially at a young age). As Bearded Dragons get older, they may 
                 start to eat less (1-2 times per day).</li>
                 <!--  -->
