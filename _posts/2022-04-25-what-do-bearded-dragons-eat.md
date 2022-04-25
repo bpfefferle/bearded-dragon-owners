@@ -18,13 +18,15 @@ author: Brent Pfefferle
 Bearded Dragons are omnivores, they eat food of both plant 
 and animal origin. In summary, it is important that a 
 Bearded Dragon's diet has variety and is not restricted to 
-any one type of food.
+any one type of food. This post is a basic introduction to what 
+Bearded Dragons eat. For more information on food supplementation, 
+gut-loading, or food scheduling, read our care guide <a href="https://beardeddragonowners.com/" target="_blank">here</a>.
 
 ## 1) Live Food
 
 At a young age, Bearded Dragons will rely more on live 
 food to thrive. Dubia roaches would be a great choice 
-for an everday staple feeder for your reptile. Though, 
+as an everyday staple feeder for your reptile. Though, 
 other options exist as well as seen below.
 
 **Daily Choices:**
@@ -87,14 +89,14 @@ fruits not listed here, additional research is recommended.
 - Strawberries.
 
 
-## 3) Food From Outside
+## 3) Food From Outside (Dangerous)
 
 A pet Bearded Dragon should never be offered 
 food from outside. In other words, never offer 
 a Bearded Dragon a wild insect, a small rodent, or 
-any vegetation from outside. In brief, doing so would 
+any vegetation from outside. In brief, doing so 
 could be risky for various reasons. For example, a wild bug 
-could have parasites, an illness or an infection. Moreso, some 
+could have parasites, an illness, or an infection. Moreso, some 
 bugs (fireflies) are toxic to Bearded Dragons. Thus, it is better 
 to be safe than sorry. With that said, you could always grow your 
 own vegetables for your Bearded Dragon to eat, just be sure that 
