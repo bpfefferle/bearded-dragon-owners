@@ -99,11 +99,3 @@ bugs (fireflies) are toxic to Bearded Dragons. Thus, it is better
 to be safe than sorry. With that said, you could always grow your 
 own vegetables for your Bearded Dragon to eat, just be sure that 
 your crop is free from any presticides.
-
-## 4) Need to Know Information
-
-Taking care of your reptile's food is an 
-expected task of being a reptile owner. For 
-more information of supplementing their food (dusting), 
-gut-loading live food (live food diet), or feeding 
-schedules, please read our care guide <a href="https://beardeddragonowners.com/bearded-dragon-care-guide.html" target="_blank">here</a>.
