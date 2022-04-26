@@ -11,7 +11,7 @@ author: Brent Pfefferle
 # {{page.title}}
 {{page.image}}
 
-<div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/04/23/what-do-bearded-dragons-eat.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F04%2F23%2Fwhat-do-bearded-dragons-eat.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/04/25/what-to-feed-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F04%2F25%2Fwhat-to-feed-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## Omnivores
 
