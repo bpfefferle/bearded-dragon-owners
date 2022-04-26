@@ -98,6 +98,11 @@ description: How to take care of a Bearded Dragon.
                 treats. Keep in mind, not all fruits (or vegetables) are good for a Bearded Dragon to eat. Before offering something 
                 to your Bearded Dragon, research if it's safe.</li>
                 <!--  -->
+                <li>It's worth noting that reptile owners should take proper care of their Bearded Dragon's food. For example, if 
+                housing dubia roaches (intending to have a dubia roach colony), then make sure the dubia roaches are well fed (known as gut-loading), cleaned at least once per week (frass removal), and have proper housing. For more information of 
+                Dubia roach breeding, read our guide <a href="https://beardeddragonowners.com/2021/11/17/how-to-breed-dubia-roaches.html" target="_blank">here</a>.
+                 </li>
+                <!--  -->
                 <li>Never offer food from outside to your pet Bearded Dragon, food from outside may be dangerous. For example, 
                 outside food may have parasites or it may have come in contact with pesticides. In addition, some outside 
                 foods could be toxic. In conclusion, it's not worth the risks.</li>

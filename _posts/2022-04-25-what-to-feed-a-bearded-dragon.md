@@ -57,8 +57,8 @@ at a young age. Again, a diet full of variety is key.
 - Collard greens.
 - Endive.
 - Escarole.
-- Butternut Squash
-- Acorn Squash
+- Butternut Squash.
+- Acorn Squash.
 
 **Veggies & Fruits to Avoid:**
 
