@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Do Bearded Dragons Eat
-image: <img class="post-img" src="/assets/img/blog/what-do-bearded-dragons-eat.png" alt="Picture of a Bearded Dragon.">
+title: What to Feed a Bearded Dragon
+image: <img class="post-img" src="/assets/img/blog/what-to-feed-a-bearded-dragon.png" alt="Picture of a Bearded Dragon.">
 description: Bearded Dragons are omnivores, here's what you can feed them.
 author: Brent Pfefferle
 ---
