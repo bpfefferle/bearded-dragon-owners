@@ -30,15 +30,15 @@ as an everyday staple feeder for your reptile. Though,
 other options exist as well as seen below.
 
 **Daily Choices:**
-- Dubia roaches (dusting recommended).
-- Crickets (dusting recommended).
+- Dubia roaches (Dusting recommended).
+- Crickets (Dusting recommended).
 - Phoenix worms.
 - Silkworms.
 
 **Treats Only:**
-- Butterworms (fattening).
-- Waxworms (fattening).
-- Superworms (fattening).
+- Butterworms (Fattening).
+- Waxworms (Fattening).
+- Superworms (Fattening).
 - Mealworms (Digestion risk).
 - Hornworms (Mostly moisture).
 
@@ -68,11 +68,11 @@ please do research first or simply do not attempt it. In the meantime,
 here is a brief list of vegetables and fruits to avoid.
 
 - Lettuce (No nutritional value).
-- Spinach (calcium binding).
-- Beet Tops (calcium binding).
-- Rhubarb (toxic).
-- Avocado (toxic).
-- Citrus fruits (calcium binding).
+- Spinach (Calcium binding).
+- Beet Tops (Calcium binding).
+- Rhubarb (Toxic).
+- Avocado (Toxic).
+- Citrus fruits (Calcium binding).
 
 **Fruits as Treats:**
 
