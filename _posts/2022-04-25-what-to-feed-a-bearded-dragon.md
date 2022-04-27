@@ -45,9 +45,12 @@ other options exist as well as seen below.
 ## 2) Vegetables & Fruits
 
 As Bearded Dragons get older, they may show more 
-interest in vegetables. However, it's advised to 
-make a habit of offering both live food and vegetables 
-at a young age. Again, a diet full of variety is key.
+interest in vegetables. In addition, they may 
+enjoy a piece of fruit once in awhile. However, it's 
+best to establish a habit of offering both live food 
+and vegetables while the Bearded Dragon is young. Otherwise, 
+it may be harder to get the reptile to eat vegetables when it 
+is older.
 
 **Daily Choices:**
 
