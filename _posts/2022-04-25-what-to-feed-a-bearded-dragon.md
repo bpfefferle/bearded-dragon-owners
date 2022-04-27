@@ -49,7 +49,7 @@ interest in vegetables. However, it's advised to
 make a habit of offering both live food and vegetables 
 at a young age. Again, a diet full of variety is key.
 
-**Suggested Veggies & Fruit:**
+**Daily Choices:**
 
 - Mustard greens.
 - Dandelion greens.
@@ -60,21 +60,7 @@ at a young age. Again, a diet full of variety is key.
 - Butternut Squash.
 - Acorn Squash.
 
-**Veggies & Fruits to Avoid:**
-
-Not all vegetables are safe or nutritional for Bearded Dragons. If 
-you are ever unsure if a Bearded Dragon can eat something, then 
-please do research first or simply do not attempt it. In the meantime, 
-here is a brief list of vegetables and fruits to avoid.
-
-- Lettuce (No nutritional value).
-- Spinach (Calcium binding).
-- Beet Tops (Calcium binding).
-- Rhubarb (Toxic).
-- Avocado (Toxic).
-- Citrus fruits (Calcium binding).
-
-**Fruits as Treats:**
+**Treats Only:**
 
 There is not much to say about most fruits, besides the fact 
 that they should be offered as treats only. Below, is a 
@@ -88,16 +74,24 @@ fruits not listed here, additional research is recommended.
 - Cantaloupe.
 - Strawberries.
 
+## 3) List of Dangerous Foods
 
-## 3) Food From Outside (Dangerous)
+Certain foods should never be offered to a 
+Bearded Dragon. If you are ever unsure if 
+your reptile can eat something, then simply 
+do not attempt it until further research 
+is done. Overall, some foods may have no 
+nutritional value or could be toxic for 
+a Bearded Dragon. Below, are examples 
+of unsafe foods (or foods to avoid). 
+Though, there could be more not included here.
 
-A pet Bearded Dragon should never be offered 
-food from outside. In other words, never offer 
-a Bearded Dragon a wild insect, a small rodent, or 
-any vegetation from outside. In brief, doing so 
-could be risky for various reasons. For example, a wild bug 
-could have parasites, an illness, or an infection. Moreso, some 
-bugs (fireflies) are toxic to Bearded Dragons. Thus, it is better 
-to be safe than sorry. With that said, you could always grow your 
-own vegetables for your Bearded Dragon to eat, just be sure that 
-your crop is free from any presticides.
+**Never Offer:**
+
+- Lettuce (No nutritional value).
+- Spinach (Calcium binding).
+- Beet Tops (Calcium binding).
+- Rhubarb (Toxic).
+- Avocado (Toxic).
+- Citrus fruits (Calcium binding).
+- Food from outside (Parasites, pesticides, or toxic).
