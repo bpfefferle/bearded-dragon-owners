@@ -47,10 +47,10 @@ other options exist as well as seen below.
 As Bearded Dragons get older, they may show more 
 interest in vegetables. In addition, they may 
 enjoy a piece of fruit once in awhile. However, it's 
-best to establish a habit of offering both live food 
-and vegetables while the Bearded Dragon is young. Otherwise, 
-it may be harder to get the reptile to eat vegetables when it 
-is older.
+best to establish a habit of offering live food, vegetables, 
+and the occasional fruit while a Bearded Dragon is young. Otherwise, 
+it may be harder to get the reptile to eat vegetables or fruits when it 
+is older. Remember, variety is the key to a good diet for a Bearded Dragon.
 
 **Daily Choices:**
 
@@ -65,17 +65,19 @@ is older.
 
 **Treats Only:**
 
-There is not much to say about most fruits, besides the fact 
-that they should be offered as treats only. Below, is a 
-small list of fruits to try. Again, as treats only. For other 
-fruits not listed here, additional research is recommended.
+Fruits in general should be offered as treats only. Also, 
+some vegetables are best used as treats too. Below, is a 
+small list of veggies or fruits to try occasionally for 
+a Bearded Dragon's diet.
 
 - Apples.
-- Bananas.
-- Blueberries.
 - Blackberries.
+- Blueberries.
+- Carrots.
 - Cantaloupe.
 - Strawberries.
+- Grapes (green, red).
+- Bell peppers (green, red, yellow).
 
 ## 3) List of Dangerous Foods
 
