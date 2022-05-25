@@ -28,7 +28,7 @@ Many illnesses are visible with the naked eye. For example, a Bearded Dragon wit
 ## 3) Table of Common Illnesses
 
 | Illness | Symptoms |
-|---------|----------|
+| :---  |  ---:  |
 |Metabolic Bone Disease | Bowed legs <br> Bumps in the legs or spine <br> Deformed appearance <br> Jerky movements <br> Lack of appetite <br> Lethargic behavior <br> Paralysis of the legs <br> Swollen limbs or jaw <br> Twitching in the legs or toes
 | Yellow Fungus Disease | Lack of appetite <br> Lethargic behavior <br> Patches of yellow or brown on scales
 | Atadenovirus | Contantly looking up <br> Difficulty walking <br> Lack of appetite <br> Lethargic behavior <br> Seizures <br> Twitching
