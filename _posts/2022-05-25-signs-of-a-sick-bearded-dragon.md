@@ -25,7 +25,7 @@ A Bearded Dragon that is not acting normal, is often one sign of a sick Bearded 
 
 Many illnesses are visible with the naked eye. For example, a Bearded Dragon with metabolic bone disease will eventually develop physical deformities. For instance, his or her tail may start to have kinks (crooked appearance). As another example, a Bearded Dragon with yellow fungus disease may have patches of yellow or brown on its scales that are spreading across the body. Furthermore, a Bearded Dragon that is dehydrated may have sunken eyes or wrinkled skin. Finally, a Bearded Dragon with an eye infection may have a swollen appearance or discharge. Keep in mind, there is a long list of illnesses that exist for Bearded Dragons and we've only named a few here. Overall, the idea is that a sick Bearded Dragon may start showing signs of being ill that can be seen with your own eyes.
 
-## 3) Common Illnesses
+## 3) List of Illnesses
 
 | Illness | Symptoms |
 | :---  |  ---:  |
