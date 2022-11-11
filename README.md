@@ -1,6 +1,6 @@
 # Bearded Dragon Owners Website
 
-![alt text](https://github.com/bpfefferle/bearded-dragon-owners/tree/master/assets/img/bdo.png)
+![Screenshot](bdo.png)
 
 This is a personal website created with Jekyll and is hosted on Github pages, it features a static blog 
 with pagination and provides information regarding Bearded Dragon care for people that have 
