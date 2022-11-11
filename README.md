@@ -10,5 +10,6 @@ of CSS grid, CSS flexbox, and CSS media queries. In addition, the site uses Face
 &copy; Bearded Dragon Owners 2022
 
 ## @BeardedDragonOwners
-[Facebook](https://www.facebook.com/BeardedDragonOwners)
+[Link to Facebook](https://www.facebook.com/BeardedDragonOwners)
+[Link to website](https://beardeddragonowners.com/)
 
