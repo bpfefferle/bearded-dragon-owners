@@ -7,7 +7,7 @@ with pagination and provides information regarding Bearded Dragon care for peopl
 pet Bearded Dragons. Overall, this website is responsive and well-designed using a combination 
 of CSS grid, CSS flexbox, and CSS media queries. In addition, the site uses Facebook like and chat plugins.
 
-&copy; Bearded Dragon Owners
+&copy; Bearded Dragon Owners 2022
 
 ## @BeardedDragonOwners
 [Facebook](https://www.facebook.com/BeardedDragonOwners)
