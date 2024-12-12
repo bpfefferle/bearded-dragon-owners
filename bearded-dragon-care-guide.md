@@ -6,7 +6,7 @@ description: How to take care of a Bearded Dragon.
 
 <h1>{{page.title}}</h1>
 
-<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/bearded-dragon-care-guide.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2Fbearded-dragon-care-guide.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/bearded-dragon-care-guide.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2Fbearded-dragon-care-guide.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
 <div>
     <!-- Housing -->

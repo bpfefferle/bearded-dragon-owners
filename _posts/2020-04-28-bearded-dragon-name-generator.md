@@ -11,7 +11,7 @@ author: Brent Pfefferle
 # {{page.title}}
 {{page.image}}
 
-<div class="fb-share-button" data-href="https://beardeddragonowners.com/2020/04/28/bearded-dragon-name-generator.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2020%2F04%2F28%2Fbearded-dragon-name-generator.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2020/04/28/bearded-dragon-name-generator.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2020%2F04%2F28%2Fbearded-dragon-name-generator.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
 To generate more names, click on the button that says "Get More Names". 
 

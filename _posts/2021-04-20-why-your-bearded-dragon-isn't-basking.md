@@ -12,7 +12,7 @@ author: Brent Pfefferle
 {{page.image}}
 
 
-<div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2021/04/20/why-your-bearded-dragon-isn&#039;t-basking.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2021%2F04%2F20%2Fwhy-your-bearded-dragon-isn%27t-basking.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2021/04/20/why-your-bearded-dragon-isn&#039;t-basking.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2021%2F04%2F20%2Fwhy-your-bearded-dragon-isn%27t-basking.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
 
 ## 1) Incorrect Basking Temperature
