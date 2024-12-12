@@ -182,7 +182,7 @@ footer a {
 @media only screen and (max-width: 800px) {
     .website-layout {
     grid-template-columns: repeat(1,  1fr);
-    grid-template-rows: 75px 50px auto auto 75px;
+    grid-template-rows: 50px 50px auto auto 75px;
     grid-template-areas: "top-bar" "bottom-bar" "main-content" "right-content" "footer"}
 body {
     overflow-x: hidden;
@@ -212,7 +212,7 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 125px;
+    top: 100px;
     transform: translateX(-100%);
     transition: 1s;
     height: 100%;
