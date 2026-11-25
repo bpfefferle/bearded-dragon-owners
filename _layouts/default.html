@@ -44,9 +44,10 @@
     <div class="website-layout">
       <!-- Main nav -->
       {% include main-nav.html %}
+      <h1 class="page-title">{{ page.title | escape }}</h1>
       <!-- Main content -->
       {% include main-content.html %}
-      <!-- Right content -->
+      <!-- Support content -->
       {% include right-content.html %}
       <!-- Footer -->
       {% include footer.html %}
