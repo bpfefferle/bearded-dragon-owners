@@ -331,17 +331,11 @@ a:focus-visible, button:focus-visible {
 .facebook-share {
     display: block;
     border: 0;
-    margin-block-end: 12px;
-}
-.facebook-share--mobile {
-    display: none;
+    margin-block: 12px 16px;
 }
 @media only screen and (max-width: 500px) {
     .post-title {
         padding-inline: 0;
-    }
-    .facebook-share--mobile {
-        display: block;
     }
 }
 .post-title a:hover {
