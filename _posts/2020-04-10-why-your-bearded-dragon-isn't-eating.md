@@ -42,7 +42,7 @@ ill, then it may not be interested in eating or it may be uncapable
 of eating on its own. For instance, if a Bearded Dragon is severely 
 impacted, then it may stop eating. Of course, if you suspect that 
 your Bearded Dragon is ill, then it is best to rush to a herp vet 
-as soon as possible. Visit our <a href="/bearded-dragon-health.html" target="_blank">health page</a> 
+as soon as possible. Visit our <a href="{% link _posts/2022-05-25-signs-of-a-sick-bearded-dragon.md %}" target="_blank">health page</a>
 for more information regarding health.
 
 ## 4) Brumation

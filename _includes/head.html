@@ -1,0 +1,44 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
+{%- capture seo_output -%}{% seo %}{%- endcapture -%}
+{%- comment -%}Keep the plugin's HTML tags. Its default JSON-LD includes article fields that are not displayed on the page.{%- endcomment -%}
+{%- assign seo_tags = seo_output | split: '<script type="application/ld+json">' | first -%}
+{%- if paginator.page > 1 -%}
+  {%- assign original_description = seo_description | markdownify | strip_html | normalize_whitespace | escape_once -%}
+  {%- assign archive_topics = paginator.posts | map: 'title' | array_to_sentence_string -%}
+  {%- capture seo_description -%}Explore page {{ paginator.page }} of the {{ site.title }} blog, featuring {{ archive_topics }}.{%- endcapture -%}
+  {%- assign archive_description = seo_description | escape_once -%}
+  {%- assign seo_tags = seo_tags | replace: original_description, archive_description -%}
+{%- endif %}
+{{ seo_tags | strip }}
+<!-- End Jekyll SEO tag -->
+{% assign description_text = seo_description | strip_html | normalize_whitespace %}
+{%- assign schema_url = page.canonical_url | default: page.url | absolute_url -%}
+{%- assign schema_name = page.heading | default: page.title | default: site.title -%}
+{%- assign schema_type = 'WebPage' -%}
+{%- if page.url == '/' -%}
+  {%- assign schema_type = 'WebSite' -%}
+  {%- assign schema_name = site.title -%}
+{%- elsif page.layout == 'post' -%}
+  {%- assign schema_type = 'BlogPosting' -%}
+  {%- assign schema_image = page.image.path | default: page.image | absolute_url -%}
+{%- endif -%}
+{%- capture schema_json -%}
+  {
+    "@context": "https://schema.org",
+    "@type": {{ schema_type | jsonify }},
+    {% if schema_type == 'BlogPosting' -%}
+    "headline": {{ schema_name | jsonify }},
+    "image": {{ schema_image | jsonify }},
+    {% else -%}
+    "name": {{ schema_name | jsonify }},
+    {% endif -%}
+    "url": {{ schema_url | jsonify }},
+    "description": {{ description_text | jsonify }},
+    "inLanguage": {{ page.lang | default: site.lang | jsonify }}
+  }
+{%- endcapture %}
+<script type="application/ld+json">
+  {{ schema_json | replace: '<', '\u003c' }}
+</script>

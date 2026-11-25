@@ -1,6 +1,18 @@
 title: Bearded Dragon Owners
+tagline: Care Guides & Articles
+description: Practical guides, articles, and tools for bearded dragon owners.
+url: https://beardeddragonowners.com
+baseurl: ""
+lang: en-US
 excerpt_separator: <!--Show More-->
 paginate: 3
+paginate_path: /page:num/
+seo_paginator_message: "Page %<current>s | "
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/default-og-img.jpg
 plugins:
   - jekyll-feed
   - jekyll-sitemap
