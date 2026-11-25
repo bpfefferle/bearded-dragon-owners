@@ -1,33 +1,15 @@
-<div class="top-bar">
-  <!-- Logo -->
-  <a class="site-title" href="/index.html">Bearded Dragon Owners</a>
-  <!-- Social media -->
-  <!-- <div class="social-media">
-    <a href="https://www.facebook.com/BeardedDragonOwners/" target="_blank"><i class="lab la-facebook"></i></a>
-    <a href="https://www.youtube.com/channel/UCGa8qJlfiiPYjMpJYTUDk_w" target="_blank"><i class="lab la-youtube"></i></a>
-    <a href="https://www.instagram.com/beardeddragonowners/?hl=en" target="_blank"><i class="lab la-instagram"></i></a>
-  </div> -->
-</div>
-<div class="bottom-bar">
-  <!-- Nav -->
-  <nav class="nav-container">
-    <ul class="nav-main-ul">
-      <li><a href="/index.html">Blog</a></li>
-      <li><a href="/bearded-dragon-care-guide.html">Care Guide</a></li>
-      <!-- <li><a href="#">Learn More</a>
-        <ul class="nav-nested-ul">
-          <li><a href="/bearded-dragon-behavior.html">Behavior</a></li>
-          <li><a href="/bearded-dragon-health.html">Health</a></li>
-          <li><a href="/types-of-bearded-dragons.html">Species & Morphs</a></li>
-        </ul>
-      </li> -->
-      <!-- <li><a href="/about-bearded-dragon-owners.html">About</a></li> -->
-    </ul>
-  </nav>
-  <!-- Hamburger -->
-  <div class="hamburger">
-    <div class="line1"></div>
-    <div class="line2"></div>
-    <div class="line3"></div>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }} home">
+      <img class="site-logo" src="{{ '/assets/img/bearded-dragon-owners.png' | relative_url }}" alt="" width="92" height="92">
+      <img class="site-logo site-logo-hover" src="{{ '/assets/img/bearded-dragon-owners-hover.png' | relative_url }}" alt="" width="92" height="92">
+    </a>
+    <nav aria-label="Primary">
+      {% if page.url == '/bearded-dragon-care-guide.html' %}
+        <a href="{{ '/' | relative_url }}">Blog</a>
+      {% else %}
+        <a href="{{ '/bearded-dragon-care-guide.html' | relative_url }}">Care Guide</a>
+      {% endif %}
+    </nav>
   </div>
-</div>
+</header>
