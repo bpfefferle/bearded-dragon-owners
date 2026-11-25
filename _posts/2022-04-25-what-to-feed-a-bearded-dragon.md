@@ -1,7 +1,10 @@
 ---
 layout: post
 title: What to Feed a Bearded Dragon
-image: /assets/img/blog/what-to-feed-a-bearded-dragon.png?v=ef58fe9e
+image:
+  path: /assets/img/blog/what-to-feed-a-bearded-dragon.png?v=ef58fe9e
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: Bearded Dragons are omnivores, here's what you can feed them.
 author: Brent Pfefferle
@@ -10,9 +13,10 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{% include post-image.html post=page %}
 
-<!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/04/25/what-to-feed-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F04%2F25%2Fwhat-to-feed-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+{% include facebook-share.html post=page %}
+
+{% include post-image.html post=page %}
 
 ## Omnivores
 

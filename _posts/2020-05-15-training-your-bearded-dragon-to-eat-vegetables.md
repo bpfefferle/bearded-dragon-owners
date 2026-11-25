@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Training Your Bearded Dragon to Eat Vegetables 
-image: /assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.png
+image:
+  path: /assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: Tips to get your Bearded Dragon interested in vegetables.
 author: Brent Pfefferle
@@ -10,9 +13,10 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{% include post-image.html post=page %}
 
-<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/05/15/training-your-bearded-dragon-to-eat-vegetables.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F05%2F15%2Ftraining-your-bearded-dragon-to-eat-vegetables.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+{% include facebook-share.html post=page %}
+
+{% include post-image.html post=page %}
 
 ## #1) Introduce Vegetables at a Young Age
 

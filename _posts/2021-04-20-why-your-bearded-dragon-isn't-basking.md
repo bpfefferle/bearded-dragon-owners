@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Why Your Bearded Dragon Isn't Basking
-image: /assets/img/blog/why-your-bearded-dragon-isnt-basking.png
+image:
+  path: /assets/img/blog/why-your-bearded-dragon-isnt-basking.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: Find out why your bearded dragon may avoid basking, including incorrect basking temperatures, stress, and brumation.
 author: Brent Pfefferle
@@ -10,10 +13,11 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include facebook-share.html post=page %}
+
 {% include post-image.html post=page %}
 
-
-<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2021/04/20/why-your-bearded-dragon-isn&#039;t-basking.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2021%2F04%2F20%2Fwhy-your-bearded-dragon-isn%27t-basking.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
 
 ## 1) Incorrect Basking Temperature
