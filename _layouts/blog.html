@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <!-- Metadata -->
-    <meta charset="UTF-8">
-    <meta name="description" content="An educational website dedicated to Bearded Dragon care and information.">
-    <meta name="keywords" content="bearded dragon, pogona, pogona vitticeps, reptile, lizard, central bearded dragon, inland bearded dragon, bearded dragon care, bearded dragon advice, bearded dragon tips, bearded dragon blog, bearded dragon articles, bearded dragon information, bearded dragon facts, bearded dragon owners">
-    <meta name="author" content="Brent Pfefferle">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Facebook -->
-    <meta property="og:url" content="{{page.url}}" />
-    <meta property="og:type" content="Blog" />
-    <meta property="og:title" content="{{page.title}}" />
-    <meta property="og:description" content="{{page.description}}" />
-    <meta property="og:image" content="/assets/img/default-og-img.jpg" />
-    <!-- Page title -->
-    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
     <!-- CSS reset -->
     <link rel="stylesheet" href="/assets/css/reset.css">
     <!-- Main CSS -->

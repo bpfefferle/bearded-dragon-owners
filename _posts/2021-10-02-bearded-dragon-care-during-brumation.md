@@ -29,7 +29,7 @@ will appear lethargic. If you suspect your Bearded Dragon to be brumating, then 
 
 Unfortunately, some people make the mistake of 
 assuming their Bearded Dragon is brumating when the reptile is actually ill. In other words, acting lethargic 
-and not eating (weight loss) could also be symptoms of an illness. Therefore, you should always make sure your Bearded Dragon is not sick before assuming it is going through a brumation period. Overall, we recommend a vet visit if you're unsure. Also, read our page about <a href="http://www.beardeddragonowners.com/bearded-dragon-health.html" target="_blank">health</a>.
+and not eating (weight loss) could also be symptoms of an illness. Therefore, you should always make sure your Bearded Dragon is not sick before assuming it is going through a brumation period. Overall, we recommend a vet visit if you're unsure. Also, read our page about <a href="{% link _posts/2022-05-25-signs-of-a-sick-bearded-dragon.md %}" target="_blank">health</a>.
 
 ## 2) Check the Habitat
 

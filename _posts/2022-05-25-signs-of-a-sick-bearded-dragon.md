@@ -3,7 +3,7 @@ layout: post
 title: Signs of a Sick Bearded Dragon
 image: /assets/img/blog/signs-of-a-sick-bearded-dragon.png
 image_alt: "Picture of a Bearded Dragon."
-description: Find out if your Bearded Dragon is sick.
+description: Learn which changes in behavior, appearance, or appetite may signal illness in a bearded dragon and when to contact a reptile veterinarian.
 author: Brent Pfefferle
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Bearded Dragon Name Generator
 image: /assets/img/blog/what-to-name-your-bearded-dragon.png
 image_alt: "Picture of a Bearded Dragon."
-description: Getting a Bearded Dragon soon? Try our name generator.
+description: Find name ideas for your bearded dragon with a free random name generator. Browse lists of girl and boy names and generate a fresh set anytime.
 author: Brent Pfefferle
 ---
 
