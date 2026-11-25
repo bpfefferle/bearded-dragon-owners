@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Why Cohabitation is Bad
-image: /assets/img/blog/why-cohabitation-is-bad.png
+image:
+  path: /assets/img/blog/why-cohabitation-is-bad.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: No, you should not get your Bearded Dragon a friend.
 author: Brent Pfefferle
@@ -10,9 +13,10 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{% include post-image.html post=page %}
 
-<!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2021/11/05/why-cohabitation-is-bad.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2021%2F11%2F05%2Fwhy-cohabitation-is-bad.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+{% include facebook-share.html post=page %}
+
+{% include post-image.html post=page %}
 
 ## 1) Bad Temperament
 

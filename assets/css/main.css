@@ -328,9 +328,20 @@ a:focus-visible, button:focus-visible {
 .post-title, .post-author-and-date, .post-description {
     padding: 0px 20px;
 }
+.facebook-share {
+    display: block;
+    border: 0;
+    margin-block-end: 12px;
+}
+.facebook-share--mobile {
+    display: none;
+}
 @media only screen and (max-width: 500px) {
     .post-title {
         padding-inline: 0;
+    }
+    .facebook-share--mobile {
+        display: block;
     }
 }
 .post-title a:hover {

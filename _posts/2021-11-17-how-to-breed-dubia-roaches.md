@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to Breed Dubia Roaches
-image: /assets/img/blog/how-to-breed-dubia-roaches.png
+image:
+  path: /assets/img/blog/how-to-breed-dubia-roaches.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Dubia roach."
 description: Getting started with the basics of Dubia roach breeding.
 author: Brent Pfefferle
@@ -10,9 +13,10 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{% include post-image.html post=page %}
 
-<!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2021/11/17/how-to-breed-dubia-roaches.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2021%2F11%2F17%2Fhow-to-breed-dubia-roaches.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+{% include facebook-share.html post=page %}
+
+{% include post-image.html post=page %}
 
 ## Why Dubia Roaches
 

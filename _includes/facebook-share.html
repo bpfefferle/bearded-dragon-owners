@@ -1,0 +1,5 @@
+{%- assign share_url = include.post.canonical_url | default: include.post.url | absolute_url -%}
+<iframe class="facebook-share{% if include.mobile_only %} facebook-share--mobile{% endif %}"
+        title="Share {{ include.post.title | escape }} on Facebook"
+        src="https://www.facebook.com/plugins/share_button.php?href={{ share_url | url_encode }}&amp;layout=button_count&amp;size=large&amp;width=130&amp;height=28"
+        width="130" height="28" loading="lazy"></iframe>

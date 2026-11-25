@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to Hydrate a Bearded Dragon
-image: /assets/img/blog/how-to-hydrate-a-bearded-dragon.png
+image:
+  path: /assets/img/blog/how-to-hydrate-a-bearded-dragon.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: A few tips for keeping your Bearded Dragon hydrated.
 author: Brent Pfefferle
@@ -10,9 +13,10 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{% include post-image.html post=page %}
 
-<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/07/20/how-to-hydrate-a-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F07%2F20%2Fhow-to-hydrate-a-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
+{% include facebook-share.html post=page %}
+
+{% include post-image.html post=page %}
 
 A Bearded Dragon should get enough moisture simply from their diet. However, Bearded Dragons can still 
 become dehydrated. If you're not sure if your Bearded Dragon is getting enough water, then here 

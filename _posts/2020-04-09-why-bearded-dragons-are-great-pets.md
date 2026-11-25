@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Why Bearded Dragons Are Great Pets
-image: /assets/img/blog/why-bearded-dragons-are-great-pets.png
+image:
+  path: /assets/img/blog/why-bearded-dragons-are-great-pets.png
+  width: 1680
+  height: 945
 image_alt: "Picture of a Bearded Dragon."
 description: Considering a bearded dragon as a pet? Learn about its temperament, daytime habits, size, lifespan, and the costs of keeping one.
 author: Brent Pfefferle
@@ -10,10 +13,11 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include facebook-share.html post=page %}
+
 {% include post-image.html post=page %}
 
-
-<!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/09/why-bearded-dragons-are-great-pets.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F09%2Fwhy-bearded-dragons-are-great-pets.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
 
 ## 1) They're Docile
