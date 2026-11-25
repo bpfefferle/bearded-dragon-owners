@@ -8,8 +8,20 @@ title: Bearded Dragon Owners Blog
   <div class="fb-share-button" data-href="https://beardeddragonowners.com/" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 </div> -->
 
+<h1 class="page-title">{{ page.title | escape }}</h1>
+
+<form id="blog-search" class="blog-search" role="search" method="get" action="{{ '/' | relative_url }}" hidden>
+  <input type="search" name="q" aria-label="Search blog post titles" placeholder="Search blog posts">
+  <button type="submit" class="search-submit" aria-label="Search blog posts">
+    <span class="search-icon" aria-hidden="true"></span>
+  </button>
+</form>
+<p id="blog-search-status" class="blog-search-status" hidden>
+  <span role="status"></span> <a href="{{ '/' | relative_url }}">Clear search</a>
+</p>
+
 <!-- Pagination -->
-<div class="pagination">
+<nav class="pagination" aria-label="Blog pages">
   <!-- Page number -->
   <div class="page">
     <div class="prev">
@@ -22,9 +34,7 @@ title: Bearded Dragon Owners Blog
     </div>
     <div class="index">
       <!-- Page number -->
-      <span class="page_number ">
-        <h1>{{ paginator.page }} of {{ paginator.total_pages }}</h1>
-      </span>
+      <span class="page-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
     </div>
     <div class="next">
       <!-- Next button -->
@@ -35,18 +45,18 @@ title: Bearded Dragon Owners Blog
       {% endif %}
     </div>
   </div>
-</div>
+</nav>
 
 <!-- Loop through paginated posts -->
-{% for post in paginator.posts %}
-<div class="post-thumbnail">
-  <div class="post-title"><a href="{{post.url}}"><h2>{{post.title}}</h2></a></div>
-  <a href="{{post.url}}">{{post.image}}</a>
-  <div class="post-author-and-date">
-      <p><i class="lar la-user"></i> {{post.author}}</p>
-      <p><i class="las la-clock"></i> {{ post.date | date: "%m/%d/%Y" }}</p>
-  </div>
-  <p class="post-description">{{post.description}}</p>
-  <a class="cta-link" href="{{post.url}}">Read Post</a>
+<div id="blog-posts">
+  {% for post in paginator.posts %}
+    {% include post-card.html post=post %}
+  {% endfor %}
 </div>
-{% endfor %}
+
+<template id="blog-post-catalog" data-page-size="{{ site.paginate }}">
+  {% for post in site.posts %}
+    {% include post-card.html post=post %}
+  {% endfor %}
+</template>
+<script src="{{ '/assets/js/blog-search.js' | relative_url }}" defer></script>

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Why Your Bearded Dragon Isn't Eating
-image: <img class="post-img" src="/assets/img/blog/why-your-bearded-dragon-isn't-eating.jpg" alt="Picture of a Bearded Dragon.">
+image: /assets/img/blog/why-your-bearded-dragon-isnt-eating.png
+image_alt: "Picture of a Bearded Dragon."
 description: A Bearded Dragon may stop eating for various reasons, here are some reasons why your Bearded Dragon may not be eating.
 author: Brent Pfefferle
 ---
@@ -9,7 +10,7 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{{page.image}}
+{% include post-image.html post=page %}
 
 <!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/04/10/why-your-bearded-dragon-isn&#039;t-eating.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F04%2F10%2Fwhy-your-bearded-dragon-isn%27t-eating.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 

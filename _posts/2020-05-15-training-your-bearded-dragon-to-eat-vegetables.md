@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Training Your Bearded Dragon to Eat Vegetables 
-image: <img class="post-img" src="/assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.jpg" alt="Picture of a Bearded Dragon.">
+image: /assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.png
+image_alt: "Picture of a Bearded Dragon."
 description: Tips to get your Bearded Dragon interested in vegetables.
 author: Brent Pfefferle
 ---
@@ -9,7 +10,7 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{{page.image}}
+{% include post-image.html post=page %}
 
 <!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2020/05/15/training-your-bearded-dragon-to-eat-vegetables.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2020%2F05%2F15%2Ftraining-your-bearded-dragon-to-eat-vegetables.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 

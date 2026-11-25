@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bearded Dragon Name Generator
-image: <img class="post-img" src="/assets/img/blog/what-to-name-your-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
+image: /assets/img/blog/what-to-name-your-bearded-dragon.png
+image_alt: "Picture of a Bearded Dragon."
 description: Getting a Bearded Dragon soon? Try our name generator.
 author: Brent Pfefferle
 ---
@@ -9,7 +10,7 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{{page.image}}
+{% include post-image.html post=page %}
 
 <!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2020/04/28/bearded-dragon-name-generator.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2020%2F04%2F28%2Fbearded-dragon-name-generator.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 

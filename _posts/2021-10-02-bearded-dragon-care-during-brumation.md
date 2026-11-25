@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bearded Dragon Care During Brumation
-image: <img class="post-img" src="/assets/img/blog/bd-brumation.jpg" alt="Picture of a Bearded Dragon.">
+image: /assets/img/blog/bd-brumation.png
+image_alt: "Picture of a Bearded Dragon."
 description: What to do if your Bearded Dragon is brumating.
 author: Brent Pfefferle
 ---
@@ -9,7 +10,7 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{{page.image}}
+{% include post-image.html post=page %}
 
 <!-- <div class="fb-share-button" data-href="http://www.beardeddragonowners.com/2021/10/02/bearded-dragon-care-during-brumation.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.beardeddragonowners.com%2F2021%2F10%2F21%2Fwhat-is-brumation.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 

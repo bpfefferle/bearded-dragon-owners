@@ -1,0 +1,10 @@
+<div class="post-thumbnail">
+  <div class="post-title"><a href="{{ include.post.url | relative_url }}"><h2>{{ include.post.title | escape }}</h2></a></div>
+  <a href="{{ include.post.url | relative_url }}">{% include post-image.html post=include.post %}</a>
+  <div class="post-author-and-date">
+    <p><i class="lar la-user"></i> {{ include.post.author }}</p>
+    <p><i class="las la-clock"></i> {{ include.post.date | date: "%m/%d/%Y" }}</p>
+  </div>
+  <p class="post-description">{{ include.post.description }}</p>
+  <a class="cta-link" href="{{ include.post.url | relative_url }}">Read Post</a>
+</div>

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Signs of a Sick Bearded Dragon
-image: <img class="post-img" src="/assets/img/blog/signs-of-a-sick-bearded-dragon.jpg" alt="Picture of a Bearded Dragon.">
+image: /assets/img/blog/signs-of-a-sick-bearded-dragon.png
+image_alt: "Picture of a Bearded Dragon."
 description: Find out if your Bearded Dragon is sick.
 author: Brent Pfefferle
 ---
@@ -9,7 +10,7 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
-{{page.image}}
+{% include post-image.html post=page %}
 
 <!-- <div class="fb-share-button" data-href="https://beardeddragonowners.com/2022/05/25/signs-of-a-sick-bearded-dragon.html" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeardeddragonowners.com%2F2022%2F05%2F25%2Fsigns-of-a-sick-bearded-dragon.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div> -->
 
