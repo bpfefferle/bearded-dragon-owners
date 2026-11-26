@@ -192,11 +192,19 @@ a:focus-visible, button:focus-visible {
     height: auto;
 }
 .site-logo-hover,
-.site-brand:is(:hover, :focus-visible) .site-logo:not(.site-logo-hover) {
+.site-brand:focus-visible .site-logo:not(.site-logo-hover) {
     visibility: hidden;
 }
-.site-brand:is(:hover, :focus-visible) .site-logo-hover {
+.site-brand:focus-visible .site-logo-hover {
     visibility: visible;
+}
+@media (hover: hover) and (pointer: fine) {
+    .site-brand:hover .site-logo:not(.site-logo-hover) {
+        visibility: hidden;
+    }
+    .site-brand:hover .site-logo-hover {
+        visibility: visible;
+    }
 }
 .site-header nav {
     grid-column: 3;
@@ -267,13 +275,21 @@ a:focus-visible, button:focus-visible {
     width: 100%;
     border-radius: 10px;
 }
-.merch-card > a:hover::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-    background-color: var(--image-hover-shade);
-    pointer-events: none;
+@media (hover: hover) and (pointer: fine) {
+    .merch-card > a:hover::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: inherit;
+        background-color: var(--image-hover-shade);
+        pointer-events: none;
+    }
+}
+@media (hover: none) {
+    .site-brand,
+    .merch-card > a {
+        -webkit-tap-highlight-color: transparent;
+    }
 }
 .ad-space {
     border: 2px dashed #0d5c63;
