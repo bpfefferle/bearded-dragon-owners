@@ -16,6 +16,12 @@
     margin-block-end: 1rem;
 }
 
+.blog-home .blog-intro {
+    max-width: 60ch;
+    margin: 0 auto 1.25rem;
+    text-align: center;
+}
+
 .blog-home .blog-search {
     margin: 0 auto 1.25rem;
 }

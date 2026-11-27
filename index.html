@@ -2,7 +2,7 @@
 layout: blog
 title: Bearded Dragon Blog
 heading: Bearded Dragon Blog
-description: Browse practical bearded dragon care articles on feeding, habitat setup, lighting, brumation, and common health concerns.
+description: Bearded Dragon Owners is a community for bearded dragon lovers, with practical guides on feeding, habitat setup, and lighting to help your dragon thrive.
 ---
 
 {%- comment -%}Jekyll uses this file to generate the existing /pageN/ archive routes.{%- endcomment %}
@@ -12,6 +12,7 @@ description: Browse practical bearded dragon care articles on feeding, habitat s
   {% include article-archive.html %}
 {% else %}
   <h1 class="page-title" data-allow-heading-wrap>{{ page.heading | escape }}</h1>
+  <p class="blog-intro">Bearded Dragon Owners is a community for people who love bearded dragons. We share practical care guides and articles to help you improve your dragon’s quality of life, from choosing the right food and UVB lighting to setting up a habitat where they can thrive.</p>
   {% include blog-search.html %}
 
   {% assign featured = site.posts.first %}
