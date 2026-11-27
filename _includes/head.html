@@ -11,6 +11,23 @@
   {%- assign archive_description = seo_description | escape_once -%}
   {%- assign seo_tags = seo_tags | replace: original_description, archive_description -%}
 {%- endif %}
+{%- if page.layout == 'blog' -%}
+  {%- if page.url == '/' and paginator.next_page -%}
+    {%- capture next_tag -%}<link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />{%- endcapture -%}
+    {%- assign seo_tags = seo_tags | remove: next_tag -%}
+  {%- elsif paginator.page == 2 -%}
+    {%- capture previous_tag -%}<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />{%- endcapture -%}
+    {%- capture archive_previous_tag -%}<link rel="prev" href="{{ '/articles/' | absolute_url }}" />{%- endcapture -%}
+    {%- assign seo_tags = seo_tags | replace: previous_tag, archive_previous_tag -%}
+  {%- elsif page.url == '/articles/' -%}
+    {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden == nil or post.hidden == false' -%}
+    {%- if archive_posts.size > site.paginate -%}
+      {%- assign archive_next_path = site.paginate_path | replace: ':num', '2' -%}
+      {%- capture archive_next_tag -%}<link rel="next" href="{{ archive_next_path | absolute_url }}" />{%- endcapture -%}
+      {%- assign seo_tags = seo_tags | append: archive_next_tag -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif %}
 {{ seo_tags | strip }}
 <!-- End Jekyll SEO tag -->
 {% assign description_text = seo_description | strip_html | normalize_whitespace %}

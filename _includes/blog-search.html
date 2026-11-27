@@ -1,0 +1,15 @@
+<form id="blog-search" class="blog-search" role="search" method="get" action="{{ '/' | relative_url }}" hidden>
+  <input type="search" name="q" aria-label="Search blog post titles" placeholder="Search blog posts">
+  <button type="submit" class="search-submit" aria-label="Search blog posts">
+    <span class="search-icon" aria-hidden="true"></span>
+  </button>
+</form>
+<p id="blog-search-status" class="blog-search-status" hidden>
+  <span role="status"></span> <a href="{{ '/' | relative_url }}">Clear search</a>
+</p>
+<template id="blog-post-catalog" data-page-size="{{ site.paginate }}">
+  {% for post in site.posts %}
+    {% include post-card.html post=post %}
+  {% endfor %}
+</template>
+<script src="{{ '/assets/js/blog-search.js' | relative_url }}" defer></script>

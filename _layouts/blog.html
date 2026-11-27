@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/assets/css/reset.css">
     <!-- Main CSS -->
     <link rel="stylesheet" href="/assets/css/main.css?v=3">
+    <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
      <!-- Google font -->
      <link href="https://fonts.googleapis.com/css?family=Poppins:700|Roboto:300&display=swap" rel="stylesheet"> 
     <!-- Line awesome --> 
@@ -16,7 +17,7 @@
   </head>
   <body>
     <!-- Grid container -->
-    <div class="website-layout blog-layout blog-page">
+    <div class="website-layout blog-layout blog-page{% if page.url == '/' %} blog-home{% endif %}">
       <!-- Main nav -->
       {% include main-nav.html %}
       <!-- Main content -->
