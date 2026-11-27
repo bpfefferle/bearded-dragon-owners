@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bearded Dragon Care Guide
-heading: Bearded Dragon Owners Care Guide
+allow_heading_wrap: true
 description: Learn the basics of bearded dragon care, including enclosure setup, heat and UVB lighting, substrate, feeding, supplements, and cleaning.
 ---
 

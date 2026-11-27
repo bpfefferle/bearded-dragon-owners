@@ -88,7 +88,6 @@
 
 .blog-home .home-section h2 {
     margin: 0 0 0.75rem;
-    color: #2a2b2a;
     line-height: 1.25;
 }
 
@@ -122,7 +121,7 @@
 }
 
 .blog-home .recent-article a:hover h3,
-.blog-home .care-resources a:hover {
+.blog-home .care-resources a:is(:hover, :focus-visible) > span {
     text-decoration: underline;
     text-underline-offset: 0.15em;
 }
@@ -158,6 +157,14 @@
 
 .blog-home .care-resources i {
     font-size: 1.75rem;
+}
+
+.blog-home .care-resource-icon {
+    border-bottom: 1px solid transparent;
+}
+
+.blog-home .care-resources a:is(:hover, :focus-visible) > .care-resource-icon {
+    border-bottom-color: currentColor;
 }
 
 @media (min-width: 40rem) {
