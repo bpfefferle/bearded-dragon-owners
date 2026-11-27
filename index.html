@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Bearded Dragon Owners
-heading: Bearded Dragon Owners Blog
+title: Bearded Dragon Blog
+heading: Bearded Dragon Blog
 description: Browse practical bearded dragon care articles on feeding, habitat setup, lighting, brumation, and common health concerns.
 ---
 
@@ -11,7 +11,7 @@ description: Browse practical bearded dragon care articles on feeding, habitat s
   {% include blog-search.html %}
   {% include article-archive.html %}
 {% else %}
-  <h1 class="page-title">{{ page.heading | escape }}</h1>
+  <h1 class="page-title" data-allow-heading-wrap>{{ page.heading | escape }}</h1>
   {% include blog-search.html %}
 
   {% assign featured = site.posts.first %}
@@ -51,14 +51,17 @@ description: Browse practical bearded dragon care articles on feeding, habitat s
     <h2 id="care-resources-title">Care Resources</h2>
     <div class="care-resources">
       <a href="{{ '/bearded-dragon-care-guide.html' | relative_url }}">
-        <i class="las la-book-open" aria-hidden="true"></i>
-        Bearded Dragon Care Guide
+        <i class="las la-book-open care-resource-icon" aria-hidden="true"></i>
+        <span>Care Guide</span>
       </a>
       {% assign name_generator = site.posts | where: 'slug', 'bearded-dragon-name-generator' | first %}
       {% if name_generator %}
         <a href="{{ name_generator.url | relative_url }}">
-          <i class="las la-list" aria-hidden="true"></i>
-          {{ name_generator.title | escape }}
+          <svg class="care-resource-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M14 7H3v12h18v-7M7 12h6m-6 3h9" />
+            <path d="M18.5 2.5c0 2.5 1.5 4 4 4-2.5 0-4 1.5-4 4 0-2.5-1.5-4-4-4 2.5 0 4-1.5 4-4Z" />
+          </svg>
+          <span>Name Generator</span>
         </a>
       {% endif %}
     </div>

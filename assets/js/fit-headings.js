@@ -1,4 +1,4 @@
-const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+const headings = document.querySelectorAll(':is(h1, h2, h3, h4, h5, h6):not([data-allow-heading-wrap])');
 const headingWidths = new WeakMap();
 
 function fitHeading(heading) {

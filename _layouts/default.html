@@ -16,7 +16,7 @@
     <div class="website-layout">
       <!-- Main nav -->
       {% include main-nav.html %}
-      <h1 class="page-title">{{ page.heading | default: page.title | escape }}</h1>
+      <h1 class="page-title"{% if page.allow_heading_wrap %} data-allow-heading-wrap{% endif %}>{{ page.heading | default: page.title | escape }}</h1>
       <!-- Main content -->
       {% include main-content.html %}
       <!-- Support content -->
