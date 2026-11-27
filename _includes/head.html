@@ -20,7 +20,7 @@
     {%- capture archive_previous_tag -%}<link rel="prev" href="{{ '/articles/' | absolute_url }}" />{%- endcapture -%}
     {%- assign seo_tags = seo_tags | replace: previous_tag, archive_previous_tag -%}
   {%- elsif page.url == '/articles/' -%}
-    {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden == nil or post.hidden == false' -%}
+    {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden != true' -%}
     {%- if archive_posts.size > site.paginate -%}
       {%- assign archive_next_path = site.paginate_path | replace: ':num', '2' -%}
       {%- capture archive_next_tag -%}<link rel="next" href="{{ archive_next_path | absolute_url }}" />{%- endcapture -%}
