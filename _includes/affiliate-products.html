@@ -1,0 +1,92 @@
+{%- assign product_ids = include.product_ids | split: ',' -%}
+{%- assign tracking_id = site.data.affiliate.tracking_id | strip -%}
+{%- assign expected_tag = 'tag=' | append: tracking_id -%}
+{%- assign heading = include.heading | strip -%}
+{%- assign card_heading = 'h3' -%}
+{%- if heading != empty -%}
+  {%- assign card_heading = 'h4' -%}
+{%- endif -%}
+
+{%- capture cards -%}
+  {%- for id in product_ids -%}
+    {%- assign key = id | strip -%}
+    {%- assign product = site.data.affiliate.products[key] -%}
+    {%- assign name = product.name | strip -%}
+    {%- assign description = product.description | strip -%}
+    {%- assign rationale = product.rationale | strip -%}
+    {%- if name == empty or description == empty or rationale == empty -%}
+      {%- continue -%}
+    {%- endif -%}
+
+    {%- assign url = product.amazon_url | strip -%}
+    {%- if product.preview == true -%}
+      {%- unless jekyll.environment == 'development' -%}
+        {%- continue -%}
+      {%- endunless -%}
+    {%- else -%}
+      {%- assign scheme = url | slice: 0, 8 -%}
+      {%- assign host = url | split: '/' | slice: 2 | first -%}
+      {%- unless scheme == 'https://' and host == 'www.amazon.com' -%}
+        {%- continue -%}
+      {%- endunless -%}
+      {%- assign query_parts = url | split: '#' | first | split: '?' -%}
+      {%- unless query_parts.size == 2 and tracking_id != empty -%}
+        {%- continue -%}
+      {%- endunless -%}
+      {%- assign tag_count = 0 -%}
+      {%- assign tag_matches = false -%}
+      {%- assign parameters = query_parts[1] | split: '&' -%}
+      {%- for parameter in parameters -%}
+        {%- assign parameter_name = parameter | split: '=' | first -%}
+        {%- if parameter_name == 'tag' -%}
+          {%- assign tag_count = tag_count | plus: 1 -%}
+          {%- if parameter == expected_tag -%}
+            {%- assign tag_matches = true -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- unless tag_count == 1 and tag_matches -%}
+        {%- continue -%}
+      {%- endunless -%}
+    {%- endif -%}
+
+    {%- assign image_name = product.image.filename | strip -%}
+    {%- assign image_segments = image_name | split: '/' -%}
+    {%- assign image_width = product.image.width | plus: 0 -%}
+    {%- assign image_height = product.image.height | plus: 0 -%}
+    {%- assign image_rights = product.image.rights | strip -%}
+    {%- assign show_image = false -%}
+    {%- if image_segments.size == 1 and image_width > 0 and image_height > 0 and image_rights != empty -%}
+      {%- assign show_image = true -%}
+    {%- endif -%}
+    <li class="affiliate-product{% if show_image %} affiliate-product--with-image{% endif %}">
+      {%- if show_image %}
+        <img class="affiliate-product-image" src="{{ image_name | url_encode | replace: '+', '%20' | prepend: '/assets/img/affiliate/' | relative_url | escape }}" alt="{{ product.image.alt | escape }}" width="{{ image_width }}" height="{{ image_height }}" loading="lazy" decoding="async">
+      {%- endif %}
+      <div class="affiliate-product-content">
+        <{{ card_heading }}>{{ name | escape }}</{{ card_heading }}>
+        <p>{{ description | escape }}</p>
+        <p>{{ rationale | escape }}</p>
+        {%- if product.preview == true %}
+          <span class="cta-link affiliate-product-link" aria-disabled="true">View on Amazon</span>
+        {%- else %}
+          <a class="cta-link affiliate-product-link" href="{{ url | escape }}" rel="sponsored" aria-label="View on Amazon — {{ name | escape }} (paid link)">View on Amazon <span>(paid link)</span></a>
+        {%- endif %}
+      </div>
+    </li>
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- assign cards = cards | strip -%}
+{%- if cards != empty %}
+  <section class="affiliate-products" aria-label="{{ heading | default: 'Product recommendations' | escape }}">
+    {%- if heading != empty %}
+      <h3>{{ heading | escape }}</h3>
+    {%- endif %}
+    {%- if include.intro and include.intro != empty %}
+      <p>{{ include.intro | escape }}</p>
+    {%- endif %}
+    <p class="affiliate-products-disclosure">I may earn a commission if you buy through the links below.</p>
+    <ul class="affiliate-products-list" role="list">{{ cards }}</ul>
+  </section>
+{%- endif -%}

@@ -1,7 +1,7 @@
 a {
     text-decoration: none;
 }
-h1, h2, h3, h4, h5, h6, li, input, textarea, p, .google-ad {
+h1, h2, h3, h4, h5, h6, li, input, textarea, p {
     margin: 20px 0px;
 }
 ul, ol {
@@ -123,6 +123,17 @@ a:focus-visible, button:focus-visible {
 }
 .support-content {
     position: static;
+}
+.website-layout > .page-title + .main-content {
+    margin-block-end: 0;
+    padding-block-end: 0;
+}
+.website-layout > .page-title ~ .support-content {
+    margin-block-start: 0;
+    padding-block-start: 0;
+}
+.website-layout > .page-title ~ .support-content .recent-posts > h2 {
+    margin-block-start: 0;
 }
 }
 .blog-layout {
@@ -254,6 +265,88 @@ a:focus-visible, button:focus-visible {
 .footer-inner p {
     margin-block: 5px;
 }
+.footer-disclosure {
+    font-size: max(0.9375rem, 15px);
+}
+.affiliate-products {
+    margin-block: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #2a2b2a33;
+    border-radius: 12px;
+    background: #fffffa;
+    color: #2a2b2a;
+    font-size: max(0.9375rem, 15px);
+    line-height: 1.55;
+    overflow-wrap: anywhere;
+}
+.affiliate-products > :is(h3, p) {
+    margin: 0 0 0.75rem;
+}
+.affiliate-products h3 {
+    font-size: max(1.2rem, 18px);
+    line-height: 1.3;
+}
+.affiliate-products-disclosure {
+    font-weight: 700;
+}
+.affiliate-products-list {
+    display: grid;
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.affiliate-product {
+    display: grid;
+    align-items: start;
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0.75rem;
+    border: 1px solid #2a2b2a26;
+    border-radius: 8px;
+}
+.affiliate-product-image {
+    display: block;
+    width: 100%;
+    max-width: 6rem;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: contain;
+    border-radius: 6px;
+    background: #fff;
+}
+.affiliate-product-content {
+    min-width: 0;
+}
+.affiliate-product-content > :is(h3, h4, p) {
+    margin: 0 0 0.5rem;
+}
+.affiliate-product-content > :is(h3, h4) {
+    color: #2a2b2a;
+    font-size: max(1.05rem, 17px);
+    line-height: 1.35;
+}
+.affiliate-products .affiliate-product-link {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0 0.375rem;
+    min-height: 44px;
+    margin: 0;
+    padding: 0.5rem 0.75rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+.affiliate-products .affiliate-product-link[aria-disabled="true"] {
+    background: #0d5c63;
+}
+@media (min-width: 36rem) {
+    .affiliate-product--with-image {
+        grid-template-columns: 6rem minmax(0, 1fr);
+    }
+}
 .recent-posts .recent-articles {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
@@ -301,10 +394,18 @@ a:focus-visible, button:focus-visible {
     display: block;
     width: 100%;
     height: auto;
+    aspect-ratio: 1;
+    object-fit: contain;
     border-radius: 10px;
 }
 .merch-card {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    width: 100%;
+    max-width: 460px;
     margin: 20px 0px;
+    justify-self: center;
 }
 .merch-card > a {
     position: relative;
@@ -543,18 +644,6 @@ a:focus-visible, button:focus-visible {
         /* Leave room for the page title and first card controls on shorter screens. */
         max-height: clamp(100px, 100vh - 486px, 40vh);
         margin-inline: auto;
-    }
-    .support-content .merch-card {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 12px;
-        width: 100%;
-        max-width: 460px;
-        justify-self: center;
-    }
-    .support-content .merch-thumbnail {
-        aspect-ratio: 1;
-        object-fit: contain;
     }
     .blog-page .post-thumbnail .cta-link {
         margin-block: 12px 20px;
