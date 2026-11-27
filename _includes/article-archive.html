@@ -12,7 +12,7 @@
   {%- endif -%}
 {%- else -%}
   {%- comment -%}Build the first archive page from the same posts and page size as the root paginator.{%- endcomment -%}
-  {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden == nil or post.hidden == false' -%}
+  {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden != true' -%}
   {%- assign page_size_offset = site.paginate | minus: 1 -%}
   {%- assign total_pages = archive_posts.size | plus: page_size_offset | divided_by: site.paginate | at_least: 1 -%}
   {%- if total_pages > 1 -%}
