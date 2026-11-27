@@ -1,0 +1,9 @@
+<article class="recent-article">
+  <a href="{{ include.post.url | relative_url }}">
+    {% include post-image.html post=include.post image_class="recent-image" decorative=true loading="lazy" sizes=include.sizes %}
+    <div>
+      <h3>{{ include.post.title | escape }}</h3>
+      <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%m/%d/%Y" }}</time>
+    </div>
+  </a>
+</article>

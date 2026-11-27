@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/why-bearded-dragons-are-great-pets.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: why-bearded-dragons-are-great-pets
+image_alt: "An orange bearded dragon standing beside a stuffed toy."
 description: Considering a bearded dragon as a pet? Learn about its temperament, daytime habits, size, lifespan, and the costs of keeping one.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

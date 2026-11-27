@@ -1,0 +1,4 @@
+<p class="article-byline">
+  {% if page.author %}<span>By {{ page.author | escape }}</span>{% endif %}
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+</p>

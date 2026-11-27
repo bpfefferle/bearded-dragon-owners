@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/bd-brumation.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: bd-brumation
+image_alt: "A bearded dragon resting under bark near a pile of vegetables."
 description: What to do if your Bearded Dragon is brumating.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

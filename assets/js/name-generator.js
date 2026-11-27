@@ -81,71 +81,27 @@ let femaleNames = ['Emma', 'Olivia', 'Ava', 'Isabella', 'Sophia', 'Mia', 'Charlo
 'Novalee', 'Vienna', 'Taliyah', 'Avalyn', 'Jana', 'Alannah', 'Brenda', 'Selene', 'Lizbeth', 
 'Meilani', 'Miley', 'Estrella', 'Harmoni', 'Kiana', 'Kimora', 'Desiree', 'Renee', 'Sunny']
 
-// Globals.
-let modifier = 1 
-let storeMaleNames = []
-let storeFemaleNames = []
+function setupNameList(buttonId, itemSelector, names) {
+    const items = document.querySelectorAll(itemSelector);
+    const uniqueNames = [...new Set(names)];
 
-// When the window loads, generate random names and print them.
-window.onload = (event) => {
-    generateMaleNames()
-    generateFemaleNames()
-};
-
-// Button on click event.
-document.getElementById('btnMaleNames').addEventListener('click', () => {
-    generateMaleNames()
-})
-
-// Button on click event.
-document.getElementById('btnFemaleNames').addEventListener('click', () => {
-    generateFemaleNames()
-})
-
-let generateMaleNames = () => {
-    // Generate a random number (this will be used to select a random element from an array).
-    let getRandomNumber = () => Math.floor(Math.random()*maleNames.length) + modifier   
-
-    // Push several random numbers (elements) into an array.
-    storeMaleNames = []
-    for (let counter = 0; counter < 12; counter++) {
-        storeMaleNames.push(maleNames[getRandomNumber()])
-    }
-    // Check for any duplicate random numbers and replace them.
-    for (let i = 0; i < storeMaleNames.length; i++) {
-        for (let j = i + 1; j < storeMaleNames.length; j++) {
-            if (storeMaleNames[i] === storeMaleNames[j]) {
-                storeMaleNames.splice(j, 1, maleNames[getRandomNumber()])  
+    function renderNames() {
+        const available = uniqueNames.slice();
+        items.forEach((item, index) => {
+            if (index >= available.length) {
+                item.textContent = '';
+                return;
             }
-        }
+
+            const randomIndex = index + Math.floor(Math.random() * (available.length - index));
+            [available[index], available[randomIndex]] = [available[randomIndex], available[index]];
+            item.textContent = available[index];
+        });
     }
-    // Print out the randomly selected elements into <li> tags.
-    let liMale = document.getElementsByClassName('li-male-name')
-    for (let k = 0; k < liMale.length; k++) {
-        liMale[k].innerHTML = storeMaleNames[k];
-    } 
+
+    document.getElementById(buttonId).addEventListener('click', renderNames);
+    renderNames();
 }
 
-let generateFemaleNames = () => {
-    // Generate a random number (this will be used to select a random element from an array).
-    let getRandomNumber = () => Math.floor(Math.random()*femaleNames.length) + modifier   
-
-    // Push several random numbers (elements) into an array.
-    storeFemaleNames = []
-    for (let counter = 0; counter < 12; counter++) {
-        storeFemaleNames.push(femaleNames[getRandomNumber()])
-    }
-    // Check for any duplicate random numbers and replace them.
-    for (let i = 0; i < storeFemaleNames.length; i++) {
-        for (let j = i + 1; j < storeFemaleNames.length; j++) {
-            if (storeFemaleNames[i] === storeFemaleNames[j]) {
-                storeFemaleNames.splice(j, 1, femaleNames[getRandomNumber()])  
-            }
-        }
-    }
-    // Print out the randomly selected elements into <li> tags.
-    let liFemale = document.getElementsByClassName('li-female-name')
-    for (let k = 0; k < liFemale.length; k++) {
-        liFemale[k].innerHTML = storeFemaleNames[k];
-    } 
-}
+setupNameList('btnMaleNames', '.li-male-name', maleNames);
+setupNameList('btnFemaleNames', '.li-female-name', femaleNames);

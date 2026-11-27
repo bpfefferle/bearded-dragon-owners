@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/how-to-breed-dubia-roaches.png
   width: 1680
   height: 945
-image_alt: "Picture of a Dubia roach."
+image_variants: how-to-breed-dubia-roaches
+image_alt: "A Dubia roach on a green leaf."
 description: Getting started with the basics of Dubia roach breeding.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

@@ -17,10 +17,8 @@ description: Browse practical bearded dragon care articles on feeding, habitat s
   {% assign featured = site.posts.first %}
   <div id="blog-home-articles">
     {% if featured %}
-      {% assign featured_image = featured.image.path | default: featured.image %}
       <article class="featured-article" aria-labelledby="featured-title">
-        <img class="featured-image" src="{{ featured_image | relative_url }}" alt="{{ featured.image_alt | escape }}"
-          {% if featured.image.width and featured.image.height %}width="{{ featured.image.width }}" height="{{ featured.image.height }}"{% endif %}>
+        {% include post-image.html post=featured image_class="featured-image" priority=true sizes="(max-width: 639px) calc(100vw - 2rem), (max-width: 1072px) calc(54.5vw - 1.91rem), 554px" %}
         <div class="featured-details">
           <p class="featured-label">Latest Article</p>
           <h2 id="featured-title">{{ featured.title | escape }}</h2>
@@ -40,17 +38,7 @@ description: Browse practical bearded dragon care articles on feeding, habitat s
       <h2 id="recent-articles-title">Recent Articles</h2>
       <div class="recent-articles">
         {% for post in site.posts offset:1 limit:6 %}
-          {% assign thumbnail = post.image.path | default: post.image %}
-          <article class="recent-article">
-            <a href="{{ post.url | relative_url }}">
-              <img src="{{ thumbnail | relative_url }}" alt="" loading="lazy"
-                {% if post.image.width and post.image.height %}width="{{ post.image.width }}" height="{{ post.image.height }}"{% endif %}>
-              <div>
-                <h3>{{ post.title | escape }}</h3>
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%d/%Y" }}</time>
-              </div>
-            </a>
-          </article>
+          {% include recent-article-card.html post=post sizes="(max-width: 639px) calc(32vw - 0.64rem), (max-width: 991px) calc(50vw - 1.5rem), (max-width: 1072px) calc(33.33vw - 1.34rem), 336px" %}
         {% endfor %}
       </div>
       <a class="cta-link archive-link" href="{{ '/articles/' | relative_url }}">View All Articles</a>

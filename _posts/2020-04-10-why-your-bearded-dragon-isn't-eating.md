@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/why-your-bearded-dragon-isnt-eating.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: why-your-bearded-dragon-isnt-eating
+image_alt: "A bearded dragon beside a wooden tunnel and a dish of greens."
 description: A Bearded Dragon may stop eating for various reasons, here are some reasons why your Bearded Dragon may not be eating.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

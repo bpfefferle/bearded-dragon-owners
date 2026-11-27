@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/training-your-bearded-dragon-to-eat-vegetables.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: training-your-bearded-dragon-to-eat-vegetables
+image_alt: "A bearded dragon looking toward a plate of chopped greens and orange vegetables."
 description: Tips to get your Bearded Dragon interested in vegetables.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

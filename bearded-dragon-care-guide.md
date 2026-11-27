@@ -5,10 +5,25 @@ heading: Bearded Dragon Owners Care Guide
 description: Learn the basics of bearded dragon care, including enclosure setup, heat and UVB lighting, substrate, feeding, supplements, and cleaning.
 ---
 
+{% include facebook-share.html post=page %}
+
+<nav class="care-guide-contents" aria-labelledby="care-guide-contents">
+    <h2 id="care-guide-contents">Jump To</h2>
+    <ul>
+        <li><a class="cta-link" href="#housing">Housing</a></li>
+        <li><a class="cta-link" href="#lighting">Lighting</a></li>
+        <li><a class="cta-link" href="#substrate">Substrate</a></li>
+        <li><a class="cta-link" href="#tank-decor">Tank Decor</a></li>
+        <li><a class="cta-link" href="#diet">Diet</a></li>
+        <li><a class="cta-link" href="#food-supplementation">Food Supple&shy;mentation</a></li>
+        <li><a class="cta-link" href="#cleaning">Cleaning</a></li>
+    </ul>
+</nav>
+
 <div>
     <!-- Housing -->
     <div>
-        <h2>Housing</h2>
+        <h2 id="housing">Housing</h2>
             <ul>
                 <li>Custom-built enclosures are better than glass terrariums and should be 
                 used if possible. The minimum size we suggest for a custom-built 
@@ -20,10 +35,11 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 Dragons should not be housed together regardless of age or sex. In summary, housing Bearded 
                 Dragons together is dangerous and detrimental to their mental health.</li>
             </ul>  
+        <p>Read more about <a href="{% link _posts/2021-11-05-why-cohabitation-is-bad.md %}">the risks of housing bearded dragons together</a>.</p>
     </div>
     <!-- Lighting -->
     <div>
-        <h2>Lighting</h2>
+        <h2 id="lighting">Lighting</h2>
             <ul>
                 <li>Bearded Dragons require heat for their bodies to function properly, their 
                 terrarium must have a cool side and a hot side. For the hot side, the temperature 
@@ -48,10 +64,11 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 UVB is a good idea. However, use caution and take preventative measures to avoid losing 
                 your Bearded Dragon or allowing it to eat anything from outside. </li>
             </ul>
+        <p>See <a href="{% link _posts/2021-04-20-why-your-bearded-dragon-isn't-basking.md %}">why your bearded dragon might avoid basking</a>.</p>
     </div>
     <!-- Substrate -->
     <div>
-        <h2>Substrate</h2>
+        <h2 id="substrate">Substrate</h2>
             <ul>
                 <li>Loose substrate should not be used for a pet Bearded Dragon, loose substrate is 
                 a substrate that contains many small moving parts such as wood chips, ground walnut 
@@ -65,7 +82,7 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
     </div>
     <!-- Tank Decor -->
     <div>
-        <h2>Tank Decor</h2>
+        <h2 id="tank-decor">Tank Decor</h2>
             <ul>
                 <li>A Bearded Dragon's enclosure should have objects for climbing, basking, and 
                 hiding. For example, a Bearded Dragon will enjoy a nice rock to bask on, a large 
@@ -75,10 +92,11 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 since Bearded Dragons rarely drink from still water and the water itself may 
                 cause issues with humidity.</li>
             </ul>
+        <p>Find more options in <a href="{% link _posts/2020-07-20-how-to-hydrate-a-bearded-dragon.md %}">the bearded dragon hydration guide</a>.</p>
     </div>
     <!-- Diet -->
     <div>
-        <h2>Diet</h2>
+        <h2 id="diet">Diet</h2>
             <ul>
                 <li>Bearded Dragons are omnivores and require live food and vegetables in their diet. Occasionally, 
                 they can have fruits as treats. Overall, a Bearded Dragon's diet should have variety and these reptiles 
@@ -97,17 +115,18 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 <!--  -->
                 <li>It's worth noting that reptile owners should take proper care of their Bearded Dragon's food. For example, if 
                 housing dubia roaches (intending to have a dubia roach colony), then make sure the dubia roaches are well fed (known as gut-loading), cleaned at least once per week (frass removal), and have proper housing. For more information of 
-                Dubia roach breeding, read our guide <a href="https://beardeddragonowners.com/2021/11/17/how-to-breed-dubia-roaches.html" target="_blank">here</a>.
+                Dubia roach breeding, see <a href="{% link _posts/2021-11-17-how-to-breed-dubia-roaches.md %}">how to breed Dubia roaches</a>.
                  </li>
                 <!--  -->
                 <li>Never offer food from outside to your pet Bearded Dragon, food from outside may be dangerous. For example, 
                 outside food may have parasites or it may have come in contact with pesticides. In addition, some outside 
                 foods could be toxic. In conclusion, it's not worth the risks.</li>
             </ul>
+        <p>See <a href="{% link _posts/2022-04-25-what-to-feed-a-bearded-dragon.md %}">what to feed a bearded dragon</a> for more examples of feeders, produce, and foods to avoid.</p>
     </div>
     <!-- Diet -->
     <div>
-        <h2>Food Supplementation</h2>
+        <h2 id="food-supplementation">Food Supplementation</h2>
             <ul>
                 <li>In captivity, a Bearded Dragon may not receive important vitamins and minerals 
                 that it requires to thrive. As a result, it is crucial to "dust" their live food 
@@ -140,7 +159,7 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
     </div>
     <!-- Cleaning -->
     <div>
-        <h2>Cleaning</h2>
+        <h2 id="cleaning">Cleaning</h2>
             <ul>
                 <li>It is a good idea to make a habit of cleaning a Bearded Dragon's enclosure 
                 on a daily basis. To clean a Bearded Dragon's enclosure, all poop should be 
@@ -156,5 +175,6 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 <li>If a Bearded Dragon is forced to live in an unsanitary environment, then it 
                 could develop health issues such as yellow fungus disease.</li>
             </ul>
+        <p>Learn about <a href="{% link _posts/2022-05-25-signs-of-a-sick-bearded-dragon.md %}">signs of illness in bearded dragons</a>.</p>
     </div>
 </div>
