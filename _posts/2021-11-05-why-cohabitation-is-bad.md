@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/why-cohabitation-is-bad.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: why-cohabitation-is-bad
+image_alt: "Several young bearded dragons gathered together in one enclosure."
 description: No, you should not get your Bearded Dragon a friend.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/signs-of-a-sick-bearded-dragon.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: signs-of-a-sick-bearded-dragon
+image_alt: "An orange bearded dragon with one eye closed, resting on a soft blanket."
 description: Learn which changes in behavior, appearance, or appetite may signal illness in a bearded dragon and when to contact a reptile veterinarian.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

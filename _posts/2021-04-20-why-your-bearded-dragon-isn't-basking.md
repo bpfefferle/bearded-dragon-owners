@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/why-your-bearded-dragon-isnt-basking.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: why-your-bearded-dragon-isnt-basking
+image_alt: "A bearded dragon peeking out from a shaded wooden hide."
 description: Find out why your bearded dragon may avoid basking, including incorrect basking temperatures, stress, and brumation.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

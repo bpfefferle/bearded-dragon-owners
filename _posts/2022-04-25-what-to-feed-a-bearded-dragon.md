@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/what-to-feed-a-bearded-dragon.png?v=ef58fe9e
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: what-to-feed-a-bearded-dragon
+image_alt: "A bearded dragon with its mouth open behind a bowl of leafy greens."
 description: Bearded Dragons are omnivores, here's what you can feed them.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 

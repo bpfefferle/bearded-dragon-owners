@@ -3,11 +3,15 @@
     <a href="{{ include.post.url | relative_url }}"><h2>{{ include.post.title | escape }}</h2></a>
     {% include facebook-share.html post=include.post %}
   </div>
-  <a href="{{ include.post.url | relative_url }}">{% include post-image.html post=include.post %}</a>
+  {% assign image_loading = 'lazy' %}
+  {% if include.eager_image %}{% assign image_loading = 'eager' %}{% endif %}
+  <a href="{{ include.post.url | relative_url }}" aria-label="Read {{ include.post.title | escape }}">
+    {% include post-image.html post=include.post decorative=true loading=image_loading sizes="(max-width: 550px) calc(100vw - 90px), 460px" %}
+  </a>
   <div class="post-author-and-date">
-    <p><i class="lar la-user"></i> {{ include.post.author }}</p>
-    <p><i class="las la-clock"></i> {{ include.post.date | date: "%m/%d/%Y" }}</p>
+    <p><i class="lar la-user" aria-hidden="true"></i> {{ include.post.author | escape }}</p>
+    <p><i class="las la-clock" aria-hidden="true"></i> <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%m/%d/%Y" }}</time></p>
   </div>
-  <p class="post-description">{{ include.post.description }}</p>
-  <a class="cta-link" href="{{ include.post.url | relative_url }}">Read Post</a>
+  <p class="post-description">{{ include.post.description | escape }}</p>
+  <a class="cta-link" href="{{ include.post.url | relative_url }}" aria-label="Read Post {{ include.post.title | escape }}">Read Post</a>
 </div>

@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
 {%- capture seo_output -%}{% seo %}{%- endcapture -%}
-{%- comment -%}Keep the plugin's HTML tags. Its default JSON-LD includes article fields that are not displayed on the page.{%- endcomment -%}
+{%- comment -%}Keep the plugin's HTML tags and emit article JSON-LD from the visible byline and publication date.{%- endcomment -%}
 {%- assign seo_tags = seo_output | split: '<script type="application/ld+json">' | first -%}
 {%- if paginator.page > 1 -%}
   {%- assign original_description = seo_description | markdownify | strip_html | normalize_whitespace | escape_once -%}
@@ -48,6 +48,10 @@
     {% if schema_type == 'BlogPosting' -%}
     "headline": {{ schema_name | jsonify }},
     "image": {{ schema_image | jsonify }},
+    {% if page.author -%}
+    "author": {"@type": "Person", "name": {{ page.author | jsonify }}},
+    {% endif -%}
+    "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
     {% else -%}
     "name": {{ schema_name | jsonify }},
     {% endif -%}

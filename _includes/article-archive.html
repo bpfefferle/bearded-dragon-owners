@@ -44,7 +44,7 @@
   </nav>
   <div id="blog-posts">
     {% for post in archive_posts limit:site.paginate %}
-      {% include post-card.html post=post %}
+      {% include post-card.html post=post eager_image=forloop.first %}
     {% endfor %}
   </div>
 </div>

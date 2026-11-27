@@ -3,13 +3,11 @@
         <!-- Blog Feed -->
         <div class="recent-posts">
             <h2>Recent Blog Posts</h2>
-            <ul>
-                {% for post in site.posts limit:2 %}
-                  <li>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
-                  </li>
+            <div class="recent-articles">
+                {% for post in site.posts limit:3 %}
+                  {% include recent-article-card.html post=post sizes="(max-width: 970px) calc(32vw - 2.375rem), 83px" %}
                 {% endfor %}
-            </ul>
+            </div>
         </div>
         <!-- Merch Links -->
         <div class="merch-grid">
@@ -18,19 +16,19 @@
           <div class="merch-card">
             <!-- Sticker 1 -->
             <a href="https://www.redbubble.com/i/sticker/Fierce-Bearded-Dragon-by-PogonaVitticeps/45330547.EJUG5?asc=u" target="_blank">
-              <img class="merch-thumbnail" src="/assets/img/merch/sticker1.jpg">
+              <img class="merch-thumbnail" src="/assets/img/merch/sticker1.jpg" alt="Fierce Bearded Dragon sticker" width="1000" height="1000" loading="lazy">
             </a>
             <!-- Sticker 2 -->
             <a href="https://www.redbubble.com/i/sticker/Little-Dude-the-Bearded-Dragon-by-PogonaVitticeps/45212626.O9UDB?asc=u" target="_blank">
-              <img class="merch-thumbnail" src="/assets/img/merch/sticker2.jpg">
+              <img class="merch-thumbnail" src="/assets/img/merch/sticker2.jpg" alt="Little Dude the Bearded Dragon sticker" width="1000" height="1000" loading="lazy">
             </a>
             <!-- Sticker 3 -->
             <a href="https://www.redbubble.com/i/sticker/Blaze-the-Bearded-Dragon-by-PogonaVitticeps/92285147.EJUG5?asc=u" target="_blank">
-              <img class="merch-thumbnail" src="/assets/img/merch/sticker3.jpg">
+              <img class="merch-thumbnail" src="/assets/img/merch/sticker3.jpg" alt="Blaze the Bearded Dragon sticker" width="1000" height="1000" loading="lazy">
             </a>
             <!-- Sticker 4 -->
             <a href="https://www.redbubble.com/i/sticker/Bearded-Dragon-Owners-Desert-Landscape-by-PogonaVitticeps/51316938.EJUG5?asc=u" target="_blank">
-              <img class="merch-thumbnail" src="/assets/img/merch/sticker4.jpg">
+              <img class="merch-thumbnail" src="/assets/img/merch/sticker4.jpg" alt="Bearded Dragon Owners desert landscape sticker" width="1000" height="1000" loading="lazy">
             </a>
           </div>
           <a class="cta-link" href="http://PogonaVitticeps.redbubble.com" target="_blank">Visit Shop</a>

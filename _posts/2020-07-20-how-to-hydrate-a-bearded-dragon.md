@@ -5,7 +5,8 @@ image:
   path: /assets/img/blog/how-to-hydrate-a-bearded-dragon.png
   width: 1680
   height: 945
-image_alt: "Picture of a Bearded Dragon."
+image_variants: how-to-hydrate-a-bearded-dragon
+image_alt: "A bearded dragon leaning over a ceramic water dish."
 description: A few tips for keeping your Bearded Dragon hydrated.
 author: Brent Pfefferle
 ---
@@ -13,6 +14,8 @@ author: Brent Pfefferle
 <!--Show More-->
 
 # {{page.title}}
+
+{% include post-byline.html %}
 
 {% include facebook-share.html post=page %}
 
