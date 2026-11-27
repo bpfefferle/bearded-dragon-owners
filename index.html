@@ -5,55 +5,74 @@ heading: Bearded Dragon Owners Blog
 description: Browse practical bearded dragon care articles on feeding, habitat setup, lighting, brumation, and common health concerns.
 ---
 
-<h1 class="page-title">{{ page.heading | escape }}</h1>
+{%- comment -%}Jekyll uses this file to generate the existing /pageN/ archive routes.{%- endcomment %}
+{% if paginator.page > 1 %}
+  <h1 class="page-title">All Articles</h1>
+  {% include blog-search.html %}
+  {% include article-archive.html %}
+{% else %}
+  <h1 class="page-title">{{ page.heading | escape }}</h1>
+  {% include blog-search.html %}
 
-<form id="blog-search" class="blog-search" role="search" method="get" action="{{ '/' | relative_url }}" hidden>
-  <input type="search" name="q" aria-label="Search blog post titles" placeholder="Search blog posts">
-  <button type="submit" class="search-submit" aria-label="Search blog posts">
-    <span class="search-icon" aria-hidden="true"></span>
-  </button>
-</form>
-<p id="blog-search-status" class="blog-search-status" hidden>
-  <span role="status"></span> <a href="{{ '/' | relative_url }}">Clear search</a>
-</p>
+  {% assign featured = site.posts.first %}
+  <div id="blog-home-articles">
+    {% if featured %}
+      {% assign featured_image = featured.image.path | default: featured.image %}
+      <article class="featured-article" aria-labelledby="featured-title">
+        <img class="featured-image" src="{{ featured_image | relative_url }}" alt="{{ featured.image_alt | escape }}"
+          {% if featured.image.width and featured.image.height %}width="{{ featured.image.width }}" height="{{ featured.image.height }}"{% endif %}>
+        <div class="featured-details">
+          <p class="featured-label">Latest Article</p>
+          <h2 id="featured-title">{{ featured.title | escape }}</h2>
+          <p>{{ featured.description | escape }}</p>
+          <p class="featured-meta">
+            <span><i class="lar la-user" aria-hidden="true"></i> {{ featured.author | escape }}</span>
+            <span><i class="las la-clock" aria-hidden="true"></i>
+              <time datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%m/%d/%Y" }}</time>
+            </span>
+          </p>
+          <a class="cta-link" href="{{ featured.url | relative_url }}" aria-label="Read Article {{ featured.title | escape }}">Read Article</a>
+        </div>
+      </article>
+    {% endif %}
 
-<!-- Pagination -->
-<nav class="pagination" aria-label="Blog pages">
-  <!-- Page number -->
-  <div class="page">
-    <div class="prev">
-      <!-- Previous button -->
-      {% if paginator.previous_page %}
-      <a class="cta-link" href="{{ paginator.previous_page_path }}">Previous</a>
-      {% else %}
-      <span class="cta-link">Previous</span>
-      {% endif %}
-    </div>
-    <div class="index">
-      <!-- Page number -->
-      <span class="page-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-    </div>
-    <div class="next">
-      <!-- Next button -->
-      {% if paginator.next_page %}
-        <a class="cta-link" href="{{ paginator.next_page_path }}">Next</a>
-      {% else %}
-        <span class="cta-link">Next</span>
-      {% endif %}
-    </div>
+    <section class="home-section" aria-labelledby="recent-articles-title">
+      <h2 id="recent-articles-title">Recent Articles</h2>
+      <div class="recent-articles">
+        {% for post in site.posts offset:1 limit:6 %}
+          {% assign thumbnail = post.image.path | default: post.image %}
+          <article class="recent-article">
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ thumbnail | relative_url }}" alt="" loading="lazy"
+                {% if post.image.width and post.image.height %}width="{{ post.image.width }}" height="{{ post.image.height }}"{% endif %}>
+              <div>
+                <h3>{{ post.title | escape }}</h3>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%d/%Y" }}</time>
+              </div>
+            </a>
+          </article>
+        {% endfor %}
+      </div>
+      <a class="cta-link archive-link" href="{{ '/articles/' | relative_url }}">View All Articles</a>
+    </section>
   </div>
-</nav>
 
-<!-- Loop through paginated posts -->
-<div id="blog-posts">
-  {% for post in paginator.posts %}
-    {% include post-card.html post=post %}
-  {% endfor %}
-</div>
+  {% include article-archive.html search_only=true %}
 
-<template id="blog-post-catalog" data-page-size="{{ site.paginate }}">
-  {% for post in site.posts %}
-    {% include post-card.html post=post %}
-  {% endfor %}
-</template>
-<script src="{{ '/assets/js/blog-search.js' | relative_url }}" defer></script>
+  <section class="home-section" aria-labelledby="care-resources-title">
+    <h2 id="care-resources-title">Care Resources</h2>
+    <div class="care-resources">
+      <a href="{{ '/bearded-dragon-care-guide.html' | relative_url }}">
+        <i class="las la-book-open" aria-hidden="true"></i>
+        Bearded Dragon Care Guide
+      </a>
+      {% assign name_generator = site.posts | where: 'slug', 'bearded-dragon-name-generator' | first %}
+      {% if name_generator %}
+        <a href="{{ name_generator.url | relative_url }}">
+          <i class="las la-list" aria-hidden="true"></i>
+          {{ name_generator.title | escape }}
+        </a>
+      {% endif %}
+    </div>
+  </section>
+{% endif %}

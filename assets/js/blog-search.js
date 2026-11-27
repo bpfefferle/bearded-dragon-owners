@@ -65,6 +65,10 @@ if (blogQuery) {
     const visibleCards = posts.slice(start, start + pageSize).map(({ card }) => card.cloneNode(true));
     document.querySelector('#blog-posts').replaceChildren(...visibleCards);
 
+    const homeArticles = document.querySelector('#blog-home-articles');
+    if (homeArticles) homeArticles.hidden = true;
+    document.querySelector('#blog-search-results').hidden = false;
+
     const pagination = document.querySelector('.pagination');
     pagination.querySelector('.page-number').textContent = `${currentPage} of ${totalPages}`;
     pagination.querySelector('.prev').replaceChildren(searchPageControl('Previous', currentPage - 1, totalPages));

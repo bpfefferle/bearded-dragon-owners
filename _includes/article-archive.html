@@ -1,0 +1,50 @@
+{%- assign archive_url = '/articles/' -%}
+{%- assign current_page = paginator.page | default: 1 -%}
+{%- if include.search_only -%}
+  {%- assign total_pages = 1 -%}
+{%- elsif current_page > 1 -%}
+  {%- assign total_pages = paginator.total_pages -%}
+  {%- assign archive_posts = paginator.posts -%}
+  {%- assign next_path = paginator.next_page_path -%}
+  {%- assign previous_path = paginator.previous_page_path -%}
+  {%- if current_page == 2 -%}
+    {%- assign previous_path = archive_url -%}
+  {%- endif -%}
+{%- else -%}
+  {%- comment -%}Build the first archive page from the same posts and page size as the root paginator.{%- endcomment -%}
+  {%- assign archive_posts = site.posts | where_exp: 'post', 'post.hidden == nil or post.hidden == false' -%}
+  {%- assign page_size_offset = site.paginate | minus: 1 -%}
+  {%- assign total_pages = archive_posts.size | plus: page_size_offset | divided_by: site.paginate | at_least: 1 -%}
+  {%- if total_pages > 1 -%}
+    {%- assign next_path = site.paginate_path | replace: ':num', '2' -%}
+  {%- endif -%}
+{%- endif -%}
+
+<div id="blog-search-results"{% if include.search_only %} hidden{% endif %}>
+  <nav class="pagination" aria-label="Blog pages">
+    <div class="page">
+      <div class="prev">
+        {% if previous_path %}
+          <a class="cta-link" href="{{ previous_path | relative_url }}">Previous</a>
+        {% else %}
+          <span class="cta-link">Previous</span>
+        {% endif %}
+      </div>
+      <div class="index">
+        <span class="page-number">{{ current_page }} of {{ total_pages }}</span>
+      </div>
+      <div class="next">
+        {% if next_path %}
+          <a class="cta-link" href="{{ next_path | relative_url }}">Next</a>
+        {% else %}
+          <span class="cta-link">Next</span>
+        {% endif %}
+      </div>
+    </div>
+  </nav>
+  <div id="blog-posts">
+    {% for post in archive_posts limit:site.paginate %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  </div>
+</div>
