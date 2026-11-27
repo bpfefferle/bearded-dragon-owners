@@ -14,4 +14,3 @@ of CSS grid, CSS flexbox, and CSS media queries. In addition, the site uses Face
 [Facebook](https://www.facebook.com/BeardedDragonOwners)
 
 [Website](https://beardeddragonowners.com/)
-
