@@ -20,6 +20,7 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
 <nav class="care-guide-contents" aria-labelledby="care-guide-contents">
     <h2 id="care-guide-contents">Jump To</h2>
     <ul>
+        <li><a class="cta-link" href="#quick-facts">Quick Facts</a></li>
         <li><a class="cta-link" href="#housing">Housing</a></li>
         <li><a class="cta-link" href="#lighting">Lighting</a></li>
         <li><a class="cta-link" href="#substrate">Substrate</a></li>
@@ -31,6 +32,39 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
 </nav>
 
 <div>
+    <section aria-labelledby="quick-facts">
+        <h2 id="quick-facts">Quick Facts</h2>
+        <div class="care-guide-facts">
+            <dl>
+                <dt>Common name</dt>
+                <dd><strong>Central Bearded Dragon</strong></dd>
+                <dt>Scientific name</dt>
+                <dd><strong>Pogona vitticeps</strong></dd>
+                <dt>Native region</dt>
+                <dd><strong>Central and eastern Australia</strong></dd>
+                <dt>Lifespan</dt>
+                <dd><strong>Several years or longer (as pets)</strong></dd>
+                <dt>Temperament</dt>
+                <dd><strong>Docile (easily tamed)</strong></dd>
+            </dl>
+            <dl>
+                <dt>Sociability with other dragons</dt>
+                <dd><strong>Prefers solitude and can be territorial</strong></dd>
+                <dt>Size</dt>
+                <dd><strong>18–24 inches (including tail)</strong></dd>
+                <dt>Activity</dt>
+                <dd><strong>Active during the day</strong></dd>
+                <dt>Diet</dt>
+                <dd><strong>Omnivore</strong></dd>
+                <dt>Care difficulty</dt>
+                <dd><strong>Beginner friendly</strong></dd>
+            </dl>
+        </div>
+        <aside class="care-guide-callout" aria-labelledby="quick-facts-fun-fact">
+            <p class="care-guide-callout-label" id="quick-facts-fun-fact"><strong>Fun Fact</strong></p>
+            <p>Bearded dragons get their name from the spiky skin beneath their chin, which they can puff out and darken to resemble a beard. This behavior is used to intimidate predators, display dominance, attract a mate, or communicate stress. Bearded dragons may also puff out their beards simply to stretch or yawn!</p>
+        </aside>
+    </section>
     <!-- Housing -->
     <div class="care-guide-housing">
         <h2 id="housing">Housing</h2>
@@ -47,8 +81,8 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
             <li>Secure, front-opening doors for easy access.</li>
             <li>Non-porous, easy-to-clean surfaces.</li>
         </ul>
-        <aside class="housing-caution" aria-labelledby="housing-caution-label">
-            <p class="housing-caution-label" id="housing-caution-label"><strong>Caution</strong></p>
+        <aside class="housing-caution care-guide-callout" aria-labelledby="housing-caution-label">
+            <p class="care-guide-callout-label" id="housing-caution-label"><strong>Caution</strong></p>
             <div class="housing-caution-topic">
                 <p class="housing-caution-topic-label"><strong>Cohabitation</strong></p>
                 <p>In the wild, bearded dragons are territorial and live solitary lives.
