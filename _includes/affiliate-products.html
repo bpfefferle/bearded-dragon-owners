@@ -71,7 +71,7 @@
           <span class="cta-link affiliate-product-link" aria-disabled="true">View on Amazon</span>
         {%- else %}
           <p class="affiliate-products-disclosure">I may earn a commission if you buy through this link.</p>
-          <a class="cta-link affiliate-product-link" href="{{ url | escape }}" rel="sponsored" aria-label="View on Amazon — {{ name | escape }}">View on Amazon</a>
+          <a class="cta-link affiliate-product-link" href="{{ url | escape }}" target="_blank" rel="sponsored noopener" aria-label="View on Amazon — {{ name | escape }} (opens in a new tab)">View on Amazon</a>
         {%- endif %}
       </div>
     </li>
