@@ -274,7 +274,7 @@ a:focus-visible, button:focus-visible {
 .footer-disclosure {
     font-size: max(0.9375rem, 15px);
 }
-.affiliate-products, .housing-caution {
+.affiliate-products, .care-guide-callout {
     margin-block: 1.5rem;
     padding: 1rem;
     border: 1px solid #2a2b2a33;
@@ -508,6 +508,18 @@ a:focus-visible, button:focus-visible {
     overflow-wrap: anywhere;
     hyphens: auto;
 }
+.care-guide-facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    overflow-wrap: anywhere;
+}
+.care-guide-facts dd + dt {
+    margin-block-start: 0.75rem;
+}
+.care-guide-facts strong {
+    color: #2a2b2a;
+}
 .housing-image {
     display: block;
     width: 100%;
@@ -530,7 +542,7 @@ a:focus-visible, button:focus-visible {
 .housing-checklist li::marker {
     color: #2a2b2a;
 }
-.housing-caution p {
+.care-guide-callout p {
     margin: 0;
 }
 .housing-caution-topic + .housing-caution-topic {
@@ -541,7 +553,7 @@ a:focus-visible, button:focus-visible {
 .housing-caution .housing-caution-topic-label {
     margin-block-end: 0.25rem;
 }
-.housing-caution .housing-caution-label,
+.care-guide-callout .care-guide-callout-label,
 .affiliate-products .affiliate-products-heading {
     border-inline-start: 3px solid #0d5c63;
     padding-inline-start: 0.5rem;
