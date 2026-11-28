@@ -7,35 +7,61 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
 
 {% include facebook-share.html post=page %}
 
+<img class="housing-image"
+    src="{{ '/assets/img/care-guide/housing-768.webp' | relative_url }}"
+    srcset="{{ '/assets/img/care-guide/housing-480.webp' | relative_url }} 480w,
+            {{ '/assets/img/care-guide/housing-768.webp' | relative_url }} 768w,
+            {{ '/assets/img/care-guide/housing-1080.webp' | relative_url }} 1080w,
+            {{ '/assets/img/care-guide/housing-1440.webp' | relative_url }} 1440w"
+    sizes="(max-width: 970px) calc(100vw - 90px), 560px"
+    width="768" height="432" fetchpriority="high" decoding="async"
+    alt="Bearded dragon basking on a rock inside an enclosure with a climbing branch and a hide.">
+
 <nav class="care-guide-contents" aria-labelledby="care-guide-contents">
     <h2 id="care-guide-contents">Jump To</h2>
     <ul>
         <li><a class="cta-link" href="#housing">Housing</a></li>
         <li><a class="cta-link" href="#lighting">Lighting</a></li>
         <li><a class="cta-link" href="#substrate">Substrate</a></li>
-        <li><a class="cta-link" href="#tank-decor">Tank Decor</a></li>
-        <li><a class="cta-link" href="#diet">Diet</a></li>
-        <li><a class="cta-link" href="#food-supplementation">Food Supple&shy;mentation</a></li>
-        <li><a class="cta-link" href="#cleaning">Cleaning</a></li>
+        <li><a class="cta-link" href="#enrichment">Enrichment</a></li>
+        <li><a class="cta-link" href="#food-and-water">Food and Water</a></li>
+        <li><a class="cta-link" href="#food-supplementation">Supplements</a></li>
+        <li><a class="cta-link" href="#sanitation">Sanitation</a></li>
     </ul>
 </nav>
 
 <div>
     <!-- Housing -->
-    <div>
+    <div class="care-guide-housing">
         <h2 id="housing">Housing</h2>
-            <ul>
-                <li>Custom-built enclosures are better than glass terrariums and should be 
-                used if possible. The minimum size we suggest for a custom-built 
-                enclosure is 48"W X 24"D x 24"H.</li>
-                <li>Glass terrariums come in various sizes. We recommend using a 20 gallon 
-                for one baby Bearded Dragon and a 40 gallon for one juvenile or adult Bearded Dragon. 
-                For adults, anything bigger than a 40 gallon is better.</li>
-                <li>In the wild, Bearded Dragons are territorial and live solitary lives. In captivity, Bearded 
-                Dragons should not be housed together regardless of age or sex. In summary, housing Bearded 
-                Dragons together is dangerous and detrimental to their mental health.</li>
-            </ul>  
-        <p>Read more about <a href="{% link _posts/2021-11-05-why-cohabitation-is-bad.md %}">the risks of housing bearded dragons together</a>.</p>
+        <p>For a single bearded dragon, we recommend an enclosure measuring at least
+            <strong>48 × 24 × 24 inches (large)</strong>. If you have room,
+            consider an enclosure measuring <strong>72 × 24 × 24 inches (extra large)</strong>. Larger enclosures
+            give your dragon more room to exercise, explore, and express natural behaviors.</p>
+        <p class="housing-checklist-label"><strong>What to look for in an enclosure:</strong></p>
+        <ul class="housing-checklist">
+            <li>Adequate space for movement and exploration.</li>
+            <li>Compatibility with heating and UVB lighting equipment.</li>
+            <li>Proper ventilation to promote airflow and prevent excessive heat buildup.</li>
+            <li>Sufficient space to establish a proper temperature gradient.</li>
+            <li>Secure, front-opening doors for easy access.</li>
+            <li>Non-porous, easy-to-clean surfaces.</li>
+        </ul>
+        <aside class="housing-caution" aria-labelledby="housing-caution-label">
+            <p class="housing-caution-label" id="housing-caution-label"><strong>Caution</strong></p>
+            <div class="housing-caution-topic">
+                <p class="housing-caution-topic-label"><strong>Cohabitation</strong></p>
+                <p>In the wild, bearded dragons are territorial and live solitary lives.
+                    In captivity, bearded dragons should not be housed together regardless of age or sex.
+                    A bearded dragon sharing an enclosure with another can be stressful and dangerous to both reptiles.
+                    For more information regarding cohabitation, read <a href="{% link _posts/2021-11-05-why-cohabitation-is-bad.md %}">Why Cohabitation is Bad</a>.</p>
+            </div>
+            <div class="housing-caution-topic">
+                <p class="housing-caution-topic-label"><strong>Enclosure setup for young dragons</strong></p>
+                <p>When using a large enclosure for a baby or juvenile bearded dragon, keep furnishings to a minimum so the young dragon can find and catch its prey more easily.</p>
+            </div>
+        </aside>
+        {% include affiliate-products.html product_ids="mojave-reptile-lounge-48-black" heading="Recommended Product" %}
     </div>
     <!-- Lighting -->
     <div>
@@ -80,9 +106,9 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 are much safer and of course cleaner.</li>
             </ul>
     </div>
-    <!-- Tank Decor -->
+    <!-- Enrichment -->
     <div>
-        <h2 id="tank-decor">Tank Decor</h2>
+        <h2 id="enrichment">Enrichment</h2>
             <ul>
                 <li>A Bearded Dragon's enclosure should have objects for climbing, basking, and 
                 hiding. For example, a Bearded Dragon will enjoy a nice rock to bask on, a large 
@@ -94,9 +120,9 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
             </ul>
         <p>Find more options in <a href="{% link _posts/2020-07-20-how-to-hydrate-a-bearded-dragon.md %}">the bearded dragon hydration guide</a>.</p>
     </div>
-    <!-- Diet -->
+    <!-- Food and Water -->
     <div>
-        <h2 id="diet">Diet</h2>
+        <h2 id="food-and-water">Food and Water</h2>
             <ul>
                 <li>Bearded Dragons are omnivores and require live food and vegetables in their diet. Occasionally, 
                 they can have fruits as treats. Overall, a Bearded Dragon's diet should have variety and these reptiles 
@@ -124,7 +150,7 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
             </ul>
         <p>See <a href="{% link _posts/2022-04-25-what-to-feed-a-bearded-dragon.md %}">what to feed a bearded dragon</a> for more examples of feeders, produce, and foods to avoid.</p>
     </div>
-    <!-- Diet -->
+    <!-- Food Supplementation -->
     <div>
         <h2 id="food-supplementation">Food Supplementation</h2>
             <ul>
@@ -157,9 +183,9 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
                 really depends on the reptile's diet, lighting, and overall health.</li>
             </ul>
     </div>
-    <!-- Cleaning -->
+    <!-- Sanitation -->
     <div>
-        <h2 id="cleaning">Cleaning</h2>
+        <h2 id="sanitation">Sanitation</h2>
             <ul>
                 <li>It is a good idea to make a habit of cleaning a Bearded Dragon's enclosure 
                 on a daily basis. To clean a Bearded Dragon's enclosure, all poop should be 
