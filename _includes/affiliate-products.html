@@ -14,7 +14,7 @@
     {%- assign name = product.name | strip -%}
     {%- assign description = product.description | strip -%}
     {%- assign rationale = product.rationale | strip -%}
-    {%- if name == empty or description == empty or rationale == empty -%}
+    {%- if name == empty or description == empty -%}
       {%- continue -%}
     {%- endif -%}
 
@@ -66,11 +66,12 @@
       <div class="affiliate-product-content">
         <{{ card_heading }}>{{ name | escape }}</{{ card_heading }}>
         <p>{{ description | escape }}</p>
-        <p>{{ rationale | escape }}</p>
+        {% if rationale != empty %}<p>{{ rationale | escape }}</p>{% endif %}
         {%- if product.preview == true %}
           <span class="cta-link affiliate-product-link" aria-disabled="true">View on Amazon</span>
         {%- else %}
-          <a class="cta-link affiliate-product-link" href="{{ url | escape }}" rel="sponsored" aria-label="View on Amazon — {{ name | escape }} (paid link)">View on Amazon <span>(paid link)</span></a>
+          <p class="affiliate-products-disclosure">I may earn a commission if you buy through this link.</p>
+          <a class="cta-link affiliate-product-link" href="{{ url | escape }}" rel="sponsored" aria-label="View on Amazon — {{ name | escape }}">View on Amazon</a>
         {%- endif %}
       </div>
     </li>
@@ -81,12 +82,11 @@
 {%- if cards != empty %}
   <section class="affiliate-products" aria-label="{{ heading | default: 'Product recommendations' | escape }}">
     {%- if heading != empty %}
-      <h3>{{ heading | escape }}</h3>
+      <h3 class="affiliate-products-heading">{{ heading | escape }}</h3>
     {%- endif %}
     {%- if include.intro and include.intro != empty %}
       <p>{{ include.intro | escape }}</p>
     {%- endif %}
-    <p class="affiliate-products-disclosure">I may earn a commission if you buy through the links below.</p>
     <ul class="affiliate-products-list" role="list">{{ cards }}</ul>
   </section>
 {%- endif -%}
