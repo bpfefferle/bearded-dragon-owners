@@ -8,11 +8,11 @@ description: Learn the basics of bearded dragon care, including enclosure setup,
 {% include facebook-share.html post=page %}
 
 <img class="housing-image"
-    src="{{ '/assets/img/care-guide/housing-768.webp' | relative_url }}"
-    srcset="{{ '/assets/img/care-guide/housing-480.webp' | relative_url }} 480w,
-            {{ '/assets/img/care-guide/housing-768.webp' | relative_url }} 768w,
-            {{ '/assets/img/care-guide/housing-1080.webp' | relative_url }} 1080w,
-            {{ '/assets/img/care-guide/housing-1440.webp' | relative_url }} 1440w"
+    src="{{ '/assets/img/care-guide/bearded-dragon-in-terrarium-768.webp' | relative_url }}"
+    srcset="{{ '/assets/img/care-guide/bearded-dragon-in-terrarium-480.webp' | relative_url }} 480w,
+            {{ '/assets/img/care-guide/bearded-dragon-in-terrarium-768.webp' | relative_url }} 768w,
+            {{ '/assets/img/care-guide/bearded-dragon-in-terrarium-1080.webp' | relative_url }} 1080w,
+            {{ '/assets/img/care-guide/bearded-dragon-in-terrarium-1440.webp' | relative_url }} 1440w"
     sizes="(max-width: 970px) calc(100vw - 90px), 560px"
     width="768" height="432" fetchpriority="high" decoding="async"
     alt="Bearded dragon basking on a rock inside an enclosure with a climbing branch and a hide.">
